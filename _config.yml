@@ -66,6 +66,7 @@ collections:
   villages:
     title: Villages
     output: true
+    permalink: "/onevillage/:path"
 defaults:
 - scope:
     path: ''
