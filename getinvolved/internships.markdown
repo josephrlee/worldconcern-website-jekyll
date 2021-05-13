@@ -1,6 +1,6 @@
 ---
 title: Internships
-date: 2020-02-14 01:08:00 Z
+date: 2020-02-13 17:08:00 -08:00
 author: Joseph Lee
 hide_in_nav: 
 banner_title: Intern with Us

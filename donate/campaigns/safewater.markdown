@@ -1,6 +1,6 @@
 ---
 title: UWCAWAT0920-d-maj
-date: 2020-08-25 00:43:00 Z
+date: 2020-08-24 17:43:00 -07:00
 author: Joseph Lee
 form_id: 33?tfa_1202=WaterMajor&CampName=UWCAWAT0920-d&CADCampName=CWCAWAT0920-d
 body_title: '<strong class="large" style="text-transform: uppercase;">Quest for Water</strong>

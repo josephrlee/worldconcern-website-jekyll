@@ -1,6 +1,6 @@
 ---
 title: Nkaroni, Kenya | KCMS
-date: 2019-08-16 00:47:00 Z
+date: 2019-08-15 17:47:00 -07:00
 published: false
 author: Joseph Lee
 hide_in_nav: 

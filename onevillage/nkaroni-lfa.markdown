@@ -1,6 +1,6 @@
 ---
 title: Nkaroni, Kenya | Long-Form Ad
-date: 2019-10-29 17:44:00 Z
+date: 2019-10-29 10:44:00 -07:00
 published: false
 author: World Concern
 hide_in_nav: 

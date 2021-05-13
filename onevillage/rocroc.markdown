@@ -1,6 +1,6 @@
 ---
 title: Roc Roc, South Sudan
-date: 2016-03-21 21:06:00 Z
+date: 2016-03-21 14:06:00 -07:00
 author: Joseph Lee
 campaign_id: 70136000000tCpvAAE
 donate_link: "/donate/onevillage/rocroc"

@@ -1,6 +1,6 @@
 ---
 title: Campaigns
-date: 2017-07-01 04:48:00 Z
+date: 2017-06-30 21:48:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCAWEBPAGE00&CADCampName=CWCAWEBPAGE00
 body_title: Your Gift Transforms a Life!

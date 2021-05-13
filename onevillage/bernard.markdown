@@ -1,6 +1,6 @@
 ---
 title: Bernard, Haiti
-date: 2017-03-02 23:53:00 Z
+date: 2017-03-02 15:53:00 -08:00
 published: false
 author: Joseph Lee
 nav_title: Bernard

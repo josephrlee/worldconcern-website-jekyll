@@ -1,6 +1,6 @@
 ---
 title: UWCNKFMK0920-d
-date: 2020-09-02 20:52:00 Z
+date: 2020-09-02 13:52:00 -07:00
 author: World Concern
 form_id: 33?tfa_1202=ChildMarraige&CampName=UWCNKFMK0920-r
 body_title: '<span class="emergency">Urgent: Rescue Girls From Forced Marriage</span>'

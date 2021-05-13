@@ -1,6 +1,6 @@
 ---
 title: UWCNLCHI0920-r
-date: 2020-10-05 19:10:00 Z
+date: 2020-10-05 12:10:00 -07:00
 author: Joseph Lee
 form_id: 33?tfa_1202=ChildMarraige&CampName=UWCNLCHI0920-r&CADCampName=CWCNLCHI0920-r
 body_title: '<span class="emergency">Urgent: Rescue Girls From Forced Marriage</span>'

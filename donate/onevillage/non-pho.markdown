@@ -1,6 +1,6 @@
 ---
 title: Non Pho, Laos
-date: 2019-12-16 22:57:00 Z
+date: 2019-12-16 14:57:00 -08:00
 author: World Concern
 form_id: 37?CampName=UWCAOVTNONPHO&CADCampName=CWCAOVTNONPHO
 body_title: Help Transform the Village of Non Pho in Laos

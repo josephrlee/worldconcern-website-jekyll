@@ -1,6 +1,6 @@
 ---
 title: FAQs
-date: 2019-06-26 20:41:00 Z
+date: 2019-06-26 13:41:00 -07:00
 author: Joseph Lee
 sidebar: 
 body_class: 

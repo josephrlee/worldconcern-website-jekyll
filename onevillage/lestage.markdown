@@ -1,6 +1,6 @@
 ---
 title: Lestage, Haiti
-date: 2017-02-01 18:05:00 Z
+date: 2017-02-01 10:05:00 -08:00
 published: false
 author: Joseph Lee
 nav_title: Lestage

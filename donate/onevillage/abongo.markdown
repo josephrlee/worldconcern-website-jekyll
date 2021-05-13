@@ -1,6 +1,6 @@
 ---
 title: Abongo, South Sudan
-date: 2017-07-01 04:58:00 Z
+date: 2017-06-30 21:58:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTABONGO&CADCampName=CWCOVTABONGO
 body_title: Transform the lives of families in Abongo, South Sudan

@@ -1,6 +1,6 @@
 ---
 title: UWCACRIS0420-d
-date: 2020-04-03 02:01:00 Z
+date: 2020-04-02 19:01:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCACRIS0420-d&CADCampName=CWCACRIS0420-d
 body_title: '<span class="emergency"><strong class="large" style="text-transform:

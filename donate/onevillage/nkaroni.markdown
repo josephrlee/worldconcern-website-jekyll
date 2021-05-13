@@ -1,6 +1,6 @@
 ---
 title: Nkaroni, Kenya
-date: 2019-02-15 16:43:00 Z
+date: 2019-02-15 08:43:00 -08:00
 author: World Concern
 form_id: 37?CampName=UWCOVTNKARONI&CADCampName=CWCOVTNKARONI
 body_title: Help transform the village of Nkaroni in Kenya

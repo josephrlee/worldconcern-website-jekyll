@@ -1,6 +1,6 @@
 ---
 title: CWCNCJSI0820-r
-date: 2020-08-05 23:28:00 Z
+date: 2020-08-05 16:28:00 -07:00
 author: Joseph Lee
 form_id: 47?CampName=UWCNCJSI0820-r&CADCampName=CWCNCJSI0820-r&tfa_3506=Canada&tfa_1244=ChildMarriage
 body_title: MSN Donation Page for CJSI Child Marriage

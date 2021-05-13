@@ -1,6 +1,6 @@
 ---
 title: Leadership
-date: 2014-02-06 23:12:00 Z
+date: 2014-02-06 15:12:00 -08:00
 author: samk@worldconcern.org
 nav_title: View Our Leaders
 head_title: Leadership

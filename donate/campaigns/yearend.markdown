@@ -1,6 +1,6 @@
 ---
 title: UWCACYE1120-d-maj
-date: 2020-10-28 23:29:00 Z
+date: 2020-10-28 16:29:00 -07:00
 author: Elwin Managbanag
 form_id: 33?tfa_1202=MajorDonor&CampName=UWCACYE1120-d&CADCampName=CWCACYE1120-d
 body_title: <strong>DOUBLE Your Impact to Share Hope and Change Lives</strong><br

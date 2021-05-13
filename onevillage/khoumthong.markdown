@@ -1,6 +1,6 @@
 ---
 title: Khoumthong, Laos
-date: 2016-01-20 21:29:00 Z
+date: 2016-01-20 13:29:00 -08:00
 published: false
 author: Joseph Lee
 nav_title: Khoumthong

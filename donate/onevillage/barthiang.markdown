@@ -1,6 +1,6 @@
 ---
 title: Barthiang, South Sudan
-date: 2019-02-01 18:19:00 Z
+date: 2019-02-01 10:19:00 -08:00
 author: World Concern
 form_id: 37?CampName=UWCAOVTBARTHIANG-d&CADCampName=CWCAOVTBARTHIANG-d
 body_title: Help transform the village of Barthiang in South Sudan

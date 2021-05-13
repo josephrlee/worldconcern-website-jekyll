@@ -1,6 +1,6 @@
 ---
 title: Financials
-date: 2014-02-06 23:12:00 Z
+date: 2014-02-06 15:12:00 -08:00
 author: samk@worldconcern.org
 head_title: Financial Integrity
 banner_title: Financial Integrity

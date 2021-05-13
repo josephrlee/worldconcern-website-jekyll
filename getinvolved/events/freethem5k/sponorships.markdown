@@ -1,6 +1,6 @@
 ---
 title: Sponorships
-date: 2020-02-28 23:32:00 Z
+date: 2020-02-28 15:32:00 -08:00
 published: false
 author: Joseph Lee
 body_class: no-footer

@@ -1,6 +1,6 @@
 ---
 title: UWCAEMCF318-d
-date: 2019-12-05 18:30:00 Z
+date: 2019-12-05 10:30:00 -08:00
 author: Joseph Lee
 form_id: 33?CampName=UWCAEMCF318-d&CADCampName=CWCAEMCF318-d
 body_title: '<span class="emergency"><strong class="large" style="text-transform:

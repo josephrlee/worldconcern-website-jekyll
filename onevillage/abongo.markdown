@@ -1,6 +1,6 @@
 ---
 title: Abongo, South Sudan
-date: 2016-12-08 19:19:00 Z
+date: 2016-12-08 11:19:00 -08:00
 author: Joseph Lee
 nav_title: Abongo
 banner_image: "/uploads/onevillage-abongo-banner@2x.jpg"

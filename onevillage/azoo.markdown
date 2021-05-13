@@ -1,6 +1,6 @@
 ---
 title: Azoo, DRC
-date: 2018-12-22 05:08:00 Z
+date: 2018-12-21 21:08:00 -08:00
 author: World Concern
 banner_image: "/uploads/onevillage-azoo-banner.jpg"
 map_source: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d510121.60731021!2d30.37844196934018!3d2.7194605772615765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMsKwNDMnMTAuMCJOIDMwwrAzOSczMS4wIkU!5e0!3m2!1sen!2sus!4v1540914190165"

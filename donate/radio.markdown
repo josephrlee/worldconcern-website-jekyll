@@ -1,6 +1,6 @@
 ---
 title: Radio
-date: 2017-07-01 04:46:00 Z
+date: 2017-06-30 21:46:00 -07:00
 published: false
 author: Joseph Lee
 form_id: '47'

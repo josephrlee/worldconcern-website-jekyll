@@ -1,6 +1,6 @@
 ---
 title: Nonkhoum, Laos
-date: 2019-12-16 22:09:00 Z
+date: 2019-12-16 14:09:00 -08:00
 published: false
 author: World Concern
 form_id: 37?CampName=UWCAOVTNONKHOUM&CADCampName=CWCAOVTNONKHOUM

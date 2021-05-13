@@ -1,6 +1,6 @@
 ---
 title: Magai, South Sudan
-date: 2014-07-17 00:04:00 Z
+date: 2014-07-16 17:04:00 -07:00
 published: false
 author: Joseph Lee
 nav_title: Magai

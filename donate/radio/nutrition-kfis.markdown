@@ -1,6 +1,6 @@
 ---
 title: UWCNKFIS0421-d
-date: 2020-11-05 15:22:00 Z
+date: 2020-11-05 07:22:00 -08:00
 author: World Concern
 form_id: 33?tfa_1202=NutritionRadio&CampName=UWCNKFIS0421-r
 body_title: <span class="emergency">Save the life of a starving child!</span>

@@ -1,6 +1,6 @@
 ---
 title: Pagisi, Uganda
-date: 2017-11-27 23:50:00 Z
+date: 2017-11-27 15:50:00 -08:00
 author: World Concern
 form_id: 37?CampName=UWCOVTPAGISI&CADCampName=CWCOVTPAGISI
 body_title: Help transform the village of Pagisi, Uganda

@@ -1,6 +1,6 @@
 ---
 title: UWCPROTECT-d
-date: 2017-07-01 06:02:00 Z
+date: 2017-06-30 23:02:00 -07:00
 author: Joseph Lee
 form_id: 33?tfa_1202=SOS&CampName=UWCPROTECT-d&CADCampName=CWCPROTECT-d
 body_title: Protect Children from Trafficking

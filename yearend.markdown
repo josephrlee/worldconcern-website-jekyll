@@ -1,6 +1,6 @@
 ---
 title: Yearend
-date: 2019-12-09 23:57:00 Z
+date: 2019-12-09 15:57:00 -08:00
 published: false
 author: Joseph Lee
 banner_title: You are needed now more than ever

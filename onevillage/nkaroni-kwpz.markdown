@@ -1,6 +1,6 @@
 ---
 title: Nkaroni, Kenya | KWPZ
-date: 2019-08-15 22:04:00 Z
+date: 2019-08-15 15:04:00 -07:00
 published: false
 author: Joseph Lee
 hide_in_nav: 

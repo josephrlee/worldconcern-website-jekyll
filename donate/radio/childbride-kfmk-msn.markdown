@@ -1,6 +1,6 @@
 ---
 title: UWCNKFMK0920-r
-date: 2020-09-02 20:47:00 Z
+date: 2020-09-02 13:47:00 -07:00
 author: World Concern
 form_id: 47?tfa_1244=ChildMarriage&CampName=UWCNKFMK0920-r
 body_title: MSN Donation Page for KFMK to Rescue Child Brides

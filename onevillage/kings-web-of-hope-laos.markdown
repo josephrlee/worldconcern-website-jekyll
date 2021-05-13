@@ -1,6 +1,6 @@
 ---
 title: King's - Web of Hope, Laos
-date: 2018-11-07 14:01:00 Z
+date: 2018-11-07 06:01:00 -08:00
 published: false
 author: World Concern
 hide_in_nav: 

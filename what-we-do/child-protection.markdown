@@ -1,6 +1,6 @@
 ---
 title: Child Protection
-date: 2020-11-07 01:08:00 Z
+date: 2020-11-06 17:08:00 -08:00
 author: Joseph Lee
 banner_title: Keeping kids safe is a top priority in places where children are vulnerable
   to trafficking, child labor, early marriage, and other forms of exploitation and

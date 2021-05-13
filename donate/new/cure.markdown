@@ -1,6 +1,6 @@
 ---
 title: UWCANDSFY21-d-44c
-date: 2020-07-30 22:58:00 Z
+date: 2020-07-30 15:58:00 -07:00
 author: Elwin Managbanag
 form_id: 33?CampName=UWCANDSFY21-d-44c&CADCampName=CWCANDSFY21-d-44c&tfa_1202=Cure
 body_title: |-

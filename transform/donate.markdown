@@ -1,6 +1,6 @@
 ---
 title: Donate
-date: 2017-08-03 05:09:00 Z
+date: 2017-08-02 22:09:00 -07:00
 author: Joseph Lee
 form_id: 226?CampName=UWCATRAN0920-G&CADCampName=CWCATRAN0920-G&tfa_1244=MajorDonor
 body_title: Give to Transform a Life Today

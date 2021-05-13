@@ -1,6 +1,6 @@
 ---
 title: UWCNWMUZ0620
-date: 2020-02-12 00:22:00 Z
+date: 2020-02-11 16:22:00 -08:00
 author: World Concern
 form_id: 37?CampName=UWCNWMUZ0620-r&CADCampName=CWCNWMUZ0620-r
 body_title: Help transform the village of Aluelweng in South Sudan

@@ -1,6 +1,6 @@
 ---
 title: CWCNCJSI0221-r
-date: 2021-01-08 23:03:00 Z
+date: 2021-01-08 15:03:00 -08:00
 author: World Concern
 form_id: 33?CampName=UWCNCJSI0221-r&CADCampName=CWCNCJSI0221-r&tfa_2231=Canada&tfa_1202=44cent
 body_title: <span class="emergency">Save the life of a child suffering from parasites!</span>

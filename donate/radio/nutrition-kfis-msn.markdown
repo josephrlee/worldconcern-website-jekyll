@@ -1,6 +1,6 @@
 ---
 title: UWCNKFIS0421-r Call Center
-date: 2020-11-05 19:59:00 Z
+date: 2020-11-05 11:59:00 -08:00
 author: World Concern
 form_id: 47?CampName=UWCNKFIS0421-r&tfa_1244=NutritionRadio
 body_title: MSN Donation page for KFIS Nutrition Fundraiser

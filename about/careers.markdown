@@ -1,6 +1,6 @@
 ---
 title: Careers
-date: 2014-02-06 23:11:00 Z
+date: 2014-02-06 15:11:00 -08:00
 author: Joseph Lee
 head_title: Careers
 hide_in_nav: 'true'

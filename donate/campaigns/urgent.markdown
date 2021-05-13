@@ -1,6 +1,6 @@
 ---
 title: UWCACORONA0520-d
-date: 2020-05-07 16:53:00 Z
+date: 2020-05-07 09:53:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCACORONA0520-d&CADCampName=CWCACORONA0520-d
 body_title: '<span class="emergency"><strong class="xlarge" style="text-transform:

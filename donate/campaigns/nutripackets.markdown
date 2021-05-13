@@ -1,6 +1,6 @@
 ---
 title: UWCANUT1120-d
-date: 2020-10-28 23:07:00 Z
+date: 2020-10-28 16:07:00 -07:00
 author: Elwin Managbanag
 form_id: 33?tfa_1202=NutripacketsRadio&CampName=UWCANUT1120-d&CADCampName=CWCANUT1120-d
 body_title: <strong>Your life-saving gift — doubled in impact!</strong><br /> <span

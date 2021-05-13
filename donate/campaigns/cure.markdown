@@ -1,6 +1,6 @@
 ---
 title: UWCA44C1020-d
-date: 2020-10-01 21:58:00 Z
+date: 2020-10-01 14:58:00 -07:00
 author: Elwin Managbanag
 form_id: 33?tfa_1202=Cure&CampName=UWCA44C1020-d&CADCampName=CWCA44C1020-d
 body_title: '<span style="font-weight: 600;"><strong>There is a cure for worms — </strong><br

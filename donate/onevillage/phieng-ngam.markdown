@@ -1,6 +1,6 @@
 ---
 title: Phiêng Ngàm, Vietnam
-date: 2019-12-12 17:38:00 Z
+date: 2019-12-12 09:38:00 -08:00
 author: World Concern
 form_id: 37?CampName=UWCAOVTPHIENGNGAM&CADCampName=CWCAOVTPHIENGNGAM
 body_title: Help Transform the Village of Phiêng Ngàm in Vietnam

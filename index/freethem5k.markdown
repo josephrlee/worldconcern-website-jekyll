@@ -1,6 +1,6 @@
 ---
 title: Protect a Child From Trafficking
-date: 2017-08-16 00:16:00 Z
+date: 2017-08-15 17:16:00 -07:00
 author: Joseph Lee
 url: 
 button_text: Donate Now

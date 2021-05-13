@@ -1,6 +1,6 @@
 ---
 title: FAQs
-date: 2017-02-22 21:57:00 Z
+date: 2017-02-22 13:57:00 -08:00
 author: Joseph Lee
 body_class: no-footer
 sidebar: "## Sponsors \n\nIf you're interested in sponsoring the Free Them 5k, please

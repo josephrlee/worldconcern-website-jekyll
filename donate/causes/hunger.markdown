@@ -1,6 +1,6 @@
 ---
 title: UWCFOODSECRUITY
-date: 2017-07-03 07:19:00 Z
+date: 2017-07-03 00:19:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCFOODSECRUITY&CADCampName=CWCFOODSECRUITY
 body_title: Feed a Family

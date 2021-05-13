@@ -1,6 +1,6 @@
 ---
 title: UWCADEC1220-d
-date: 2018-11-16 00:11:00 Z
+date: 2018-11-15 16:11:00 -08:00
 author: Joseph Lee
 form_id: 33?CampName=UWCADEC1220-d&CADCampName=CWCADEC1220-d
 body_title: This December, <br class="hidden lg:block" />Change 2x The Lives

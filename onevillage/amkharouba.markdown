@@ -1,6 +1,6 @@
 ---
 title: Amkharouba, Chad
-date: 2014-04-02 00:33:00 Z
+date: 2014-04-01 17:33:00 -07:00
 published: false
 author: Joseph Lee
 nav_title: Amkharouba

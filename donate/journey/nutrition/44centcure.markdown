@@ -1,6 +1,6 @@
 ---
 title: UWCACHNJY19-44c
-date: 2018-10-15 22:18:00 Z
+date: 2018-10-15 15:18:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCACHNJY19-44c&CADCampName=CWCACHNJY19-44c&tfa_1202=Cure
 body_title: Cure a Child Today!

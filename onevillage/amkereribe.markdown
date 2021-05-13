@@ -1,6 +1,6 @@
 ---
 title: Amkereribe, Chad
-date: 2014-02-07 00:38:00 Z
+date: 2014-02-06 16:38:00 -08:00
 published: false
 author: samk@worldconcern.org
 hide_in_nav: 'true'

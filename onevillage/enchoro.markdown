@@ -1,6 +1,6 @@
 ---
 title: Enchoro, Kenya
-date: 2014-07-21 16:06:00 Z
+date: 2014-07-21 09:06:00 -07:00
 published: false
 author: Joseph Lee
 nav_title: Enchoro

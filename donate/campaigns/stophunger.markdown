@@ -1,6 +1,6 @@
 ---
 title: UWCNHUN0321-d
-date: 2021-02-24 21:37:00 Z
+date: 2021-02-24 13:37:00 -08:00
 author: Elwin Managbanag
 form_id: 33?tfa_1202=StopHunger&CampName=UWCNHUN0321-d
 body_title: <strong>Your life-saving gift — doubled in impact!</strong><br /> <span

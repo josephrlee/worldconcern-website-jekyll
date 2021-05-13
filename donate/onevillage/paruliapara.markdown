@@ -1,6 +1,6 @@
 ---
 title: Parulia Para, Bangladesh
-date: 2017-07-28 20:45:00 Z
+date: 2017-07-28 13:45:00 -07:00
 author: World Concern
 form_id: 37?CampName=UWCOVTPARULIAPARA&CADCampName=CWCOVTPARULIAPARA
 body_title: Transform the Village of Parulia Para, Bangladesh

@@ -1,6 +1,6 @@
 ---
 title: Thongkouang, Laos
-date: 2016-01-20 19:26:00 Z
+date: 2016-01-20 11:26:00 -08:00
 published: false
 author: Joseph Lee
 nav_title: Thongkouang

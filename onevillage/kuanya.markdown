@@ -1,6 +1,6 @@
 ---
 title: Kuanya, South Sudan
-date: 2016-03-21 22:26:00 Z
+date: 2016-03-21 15:26:00 -07:00
 author: Joseph Lee
 nav_title: Kuanya
 campaign_id: 70136000000tCpcAAE

@@ -1,6 +1,6 @@
 ---
 title: Tessou, Chad
-date: 2014-02-07 01:10:00 Z
+date: 2014-02-06 17:10:00 -08:00
 published: false
 author: samk@worldconcern.org
 hide_in_nav: 'true'

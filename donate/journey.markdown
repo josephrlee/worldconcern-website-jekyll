@@ -1,6 +1,6 @@
 ---
 title: Journeys
-date: 2018-10-15 22:14:00 Z
+date: 2018-10-15 15:14:00 -07:00
 author: Joseph Lee
 body_title: Transform a Life Today
 form_id: 33?CampName=UWCAWEBPAGE00&CADCampName=CWCAWEBPAGE00

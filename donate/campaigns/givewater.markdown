@@ -1,6 +1,6 @@
 ---
 title: UWCNWAT0321-d
-date: 2018-08-04 00:35:00 Z
+date: 2018-08-03 17:35:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCNWAT0321-d&tfa_1202=Filter
 body_title: '<strong class="xlarge" style="text-transform: uppercase;">Double Your

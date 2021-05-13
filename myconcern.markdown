@@ -1,6 +1,6 @@
 ---
 title: My Concern
-date: 2013-11-05 18:59:00 Z
+date: 2013-11-05 10:59:00 -08:00
 published: false
 author: samk@worldconcern.org
 nav_title: What's your concern?

@@ -1,6 +1,6 @@
 ---
 title: Disaster Response
-date: 2020-11-07 01:08:00 Z
+date: 2020-11-06 17:08:00 -08:00
 author: Joseph Lee
 banner_title: Assisting families after a disaster gets a community back on its feet
   and is often the entry point for our work in a new area. We meet immediate needs

@@ -1,6 +1,6 @@
 ---
 title: CWCNOVTL1119-d
-date: 2020-10-05 17:17:00 Z
+date: 2020-10-05 10:17:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCNOVTL1119-d&CADCampName=CWCNOVTL1119-d
 body_title: Help transform the village of Nkaroni in Kenya

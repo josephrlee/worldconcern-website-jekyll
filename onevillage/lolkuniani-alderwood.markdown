@@ -1,6 +1,6 @@
 ---
 title: Lolkuniani, Kenya | Alderwood
-date: 2018-12-22 04:49:00 Z
+date: 2018-12-21 20:49:00 -08:00
 author: World Concern
 hide_in_nav: 
 banner_title: Lolkuniani, Kenya in Partnership with Alderwood Community Church

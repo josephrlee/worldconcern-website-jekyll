@@ -1,6 +1,6 @@
 ---
 title: CWCNCJSI0820-d
-date: 2020-08-05 23:19:00 Z
+date: 2020-08-05 16:19:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCNCJSI0820-r&CADCampName=CWCNCJSI0820-r&tfa_2231=Canada&tfa_1202=ChildMarriage
 body_title: '<span class="emergency">Urgent: Rescue Girls From Forced Marriage</span>'

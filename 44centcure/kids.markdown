@@ -1,6 +1,6 @@
 ---
 title: 44 Cent Cure | Kids
-date: 2014-02-06 23:08:00 Z
+date: 2014-02-06 15:08:00 -08:00
 published: false
 author: samk@worldconcern.org
 banner_title: Kids' 44-Cent Cure Outreach Project

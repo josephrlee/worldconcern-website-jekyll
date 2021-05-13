@@ -1,6 +1,6 @@
 ---
 title: Ranguo, South Sudan
-date: 2017-07-01 05:29:00 Z
+date: 2017-06-30 22:29:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTRANGUO&CADCampName=CWCOVTRANGUO
 body_title: Transform the lives of families in Ranguo, South Sudan

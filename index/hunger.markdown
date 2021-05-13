@@ -1,6 +1,6 @@
 ---
 title: Families on the Brink of Famine
-date: 2016-12-06 00:36:00 Z
+date: 2016-12-05 16:36:00 -08:00
 published: false
 author: Joseph Lee
 url: "/donate/campaigns/hunger/?utm_campaign=UWCANUT0521"

@@ -1,6 +1,6 @@
 ---
 title: UWCAPHONE1120-p
-date: 2020-06-16 01:21:00 Z
+date: 2020-06-15 18:21:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCAPHONE1120-p
 body_title: Please Give Now! Your Gift Doubles!

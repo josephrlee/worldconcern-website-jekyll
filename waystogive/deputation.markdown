@@ -1,6 +1,6 @@
 ---
 title: Deputation
-date: 2014-02-07 00:10:00 Z
+date: 2014-02-06 16:10:00 -08:00
 author: samk@worldconcern.org
 banner_title: Support a deputized staff member
 banner_subtitle: Deputized staff serve in unique capacities which require them to

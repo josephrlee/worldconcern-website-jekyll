@@ -1,6 +1,6 @@
 ---
 title: N'djamena Village, Chad
-date: 2014-07-17 01:01:00 Z
+date: 2014-07-16 18:01:00 -07:00
 published: false
 author: Joseph Lee
 nav_title: Ndjamena Village

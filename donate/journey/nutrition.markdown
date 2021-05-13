@@ -1,6 +1,6 @@
 ---
 title: Nutrition
-date: 2018-10-15 22:14:00 Z
+date: 2018-10-15 15:14:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCACHNJY19&CADCampName=CWCACHNJY19&tfa_1202=Nutripackets
 body_title: Did you know...
@@ -11,7 +11,6 @@ assets:
   position: clear
 ---
 
- 
 * In the world’s poorest places, 1 in 3 people suffer from hunger and malnutrition?
 
 * Severe drought has wiped out most of the food supply in Somalia?

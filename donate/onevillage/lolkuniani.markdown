@@ -1,6 +1,6 @@
 ---
 title: Lolkuniani, Kenya
-date: 2018-12-21 16:37:00 Z
+date: 2018-12-21 08:37:00 -08:00
 author: World Concern
 form_id: 37?CampName=UWCOVTLOLKUNIANI&CADCampName=CWCOVTLOLKUNIANI
 body_title: Help transform the village of Lolkuniani in Kenya

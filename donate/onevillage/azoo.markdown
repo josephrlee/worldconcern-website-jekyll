@@ -1,6 +1,6 @@
 ---
 title: Azoo, DRC
-date: 2018-11-05 21:28:00 Z
+date: 2018-11-05 13:28:00 -08:00
 author: World Concern
 form_id: 37?CampName=UWCOVTAZOO&CADCampName=CWCOVTAZOO
 body_title: Help transform the village of Azoo in The Democratic Republic of the Congo

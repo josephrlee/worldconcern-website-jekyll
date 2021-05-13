@@ -1,6 +1,6 @@
 ---
 title: Empura, Kenya
-date: 2017-07-01 05:09:00 Z
+date: 2017-06-30 22:09:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTEMPURA&CADCampName=CWCOVTEMPURA
 body_title: Transform the Lives of Families in Empura, Kenya

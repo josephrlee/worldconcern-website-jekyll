@@ -1,6 +1,6 @@
 ---
 title: UWCNKPRZ0620-d
-date: 2020-06-10 22:41:00 Z
+date: 2020-06-10 15:41:00 -07:00
 author: Joseph Lee
 form_id: 33?tfa_1202=Covid&CampName=UWCNKPRZ0620-r
 body_title: <span class="emergency">Give a COVID-19 Survival Kit!</span>

@@ -1,6 +1,6 @@
 ---
 title: Tello, South Sudan
-date: 2016-12-16 19:53:00 Z
+date: 2016-12-16 11:53:00 -08:00
 author: Joseph Lee
 campaign_id: 70136000000tCpzAAE
 donate_link: "/donate/onevillage/tello"

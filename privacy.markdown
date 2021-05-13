@@ -1,6 +1,6 @@
 ---
 title: Privacy
-date: 2014-04-11 00:39:00 Z
+date: 2014-04-10 17:39:00 -07:00
 author: Joseph Lee
 banner_subtitle: We have created this statement in order to demonstrate our firm commitment
   to your privacy. We do not collect personally identifying information about you

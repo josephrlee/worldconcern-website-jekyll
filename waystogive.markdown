@@ -1,6 +1,6 @@
 ---
 title: Ways to Give
-date: 2013-11-04 22:59:00 Z
+date: 2013-11-04 14:59:00 -08:00
 author: samk@worldconcern.org
 nav_title: Ways to Give
 show_in_main_nav: 'true'

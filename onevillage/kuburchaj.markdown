@@ -1,6 +1,6 @@
 ---
 title: Kuburchaj, South Sudan
-date: 2016-02-19 01:56:00 Z
+date: 2016-02-18 17:56:00 -08:00
 author: Joseph Lee
 nav_title: Kuburchaj
 campaign_id: 70136000000tCpdAAE

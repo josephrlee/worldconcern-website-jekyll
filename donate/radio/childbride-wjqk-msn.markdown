@@ -1,6 +1,6 @@
 ---
 title: UWCNWJQK0920-r
-date: 2019-03-06 20:22:00 Z
+date: 2019-03-06 12:22:00 -08:00
 author: World Concern
 body_title: MSN Donation Page for Joy 99.3 (WJQK)
 form_id: 47?tfa_1244=ChildMarriage&CampName=UWCNWJQK0920-r&CADCampName=CWCNWJQK0920-r

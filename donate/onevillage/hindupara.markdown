@@ -1,6 +1,6 @@
 ---
 title: Hindu Para, Bangladesh
-date: 2017-07-26 23:34:00 Z
+date: 2017-07-26 16:34:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTHINDUPARA&CADCampName=CWCOVTHINDUPARA
 body_title: Transform the Village of Hindu Para, Bangladesh

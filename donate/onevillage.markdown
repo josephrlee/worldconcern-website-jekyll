@@ -1,6 +1,6 @@
 ---
 title: One Village
-date: 2017-07-01 04:51:00 Z
+date: 2017-06-30 21:51:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTGEN&CADCampName=CWCOVTGEN
 body_title: Transform a Village

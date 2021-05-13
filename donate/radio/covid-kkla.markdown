@@ -1,6 +1,6 @@
 ---
 title: UWCNKKLA0620-d
-date: 2019-06-12 19:03:00 Z
+date: 2019-06-12 12:03:00 -07:00
 author: World Concern
 form_id: 33?tfa_1202=Covid&CampName=UWCNKKLA0620-r
 body_title: <span class="emergency">Give a COVID-19 Survival Kit!</span>

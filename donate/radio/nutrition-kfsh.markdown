@@ -1,6 +1,6 @@
 ---
 title: UWCNKFSH1220-r
-date: 2020-11-24 21:11:00 Z
+date: 2020-11-24 13:11:00 -08:00
 author: World Concern
 form_id: 33?tfa_1202=NutripacketsRadio&tfa_3514=$110&CampName=UWCNKFSH1220-r
 body_title: <span class="emergency">Save the life of a starving child!</span>

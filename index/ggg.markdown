@@ -1,6 +1,6 @@
 ---
 title: Gifts That Bring New Life
-date: 2017-11-07 23:00:00 Z
+date: 2017-11-07 15:00:00 -08:00
 author: Joseph Lee
 url: https://globalgiftguide.org/?utm_medium=Website&utm_source=World+Concern&utm_campaign=UWCAGGG0321&utm_term=Homepage+Banner&utm_content=Homepage+Banner
 button_text: Shop the Guide

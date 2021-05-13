@@ -1,6 +1,6 @@
 ---
 title: King's — Thongkouang, Laos
-date: 2014-07-16 19:33:00 Z
+date: 2014-07-16 12:33:00 -07:00
 published: false
 author: Joseph Lee
 banner_title: Thongkouang, Laos

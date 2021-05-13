@@ -1,6 +1,6 @@
 ---
 title: Amkharouba, Chad
-date: 2017-07-01 05:03:00 Z
+date: 2017-06-30 22:03:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTAMKHAROUBA&CADCampName=CWCOVTAMKHAROUBA
 body_title: Transform the village of Amkharouba, Chad

@@ -1,6 +1,6 @@
 ---
 title: Clean Water & Health
-date: 2020-11-07 01:07:00 Z
+date: 2020-11-06 17:07:00 -08:00
 author: Joseph Lee
 banner_title: Good health depends on clean, disease-free water. When you give clean
   water, illness from water-borne diseases and parasites no longer hold families in

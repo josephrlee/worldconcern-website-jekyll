@@ -1,6 +1,6 @@
 ---
 title: Kenya
-date: 2015-06-09 20:23:00 Z
+date: 2015-06-09 13:23:00 -07:00
 author: Joseph Lee
 head_title: Kenya | World Concern
 banner_title: Kenya

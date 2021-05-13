@@ -1,6 +1,6 @@
 ---
 title: It Starts with Water
-date: 2018-07-20 21:02:00 Z
+date: 2018-07-20 14:02:00 -07:00
 published: false
 author: Joseph Lee
 story: "Lolmodooni lives in Northern Kenya with her little ones. Every morning she

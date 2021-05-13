@@ -1,6 +1,6 @@
 ---
 title: UWCMFINANCE
-date: 2017-07-01 06:04:00 Z
+date: 2017-06-30 23:04:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCMFINANCE&CADCampName=CWCMFINANCE
 body_title: Support an Entrepreneur

@@ -1,6 +1,6 @@
 ---
 title: Table Hosts
-date: 2017-02-10 20:15:00 Z
+date: 2017-02-10 12:15:00 -08:00
 author: Joseph Lee
 sidebar: <a data-flickr-embed="true"  href="https://www.flickr.com/photos/worldconcern/albums/72157686925196134"
   title="Transform Gala 2017"><img src="https://farm5.staticflickr.com/4440/37180828476_2c3be38e64_h.jpg"

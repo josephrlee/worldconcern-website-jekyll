@@ -1,6 +1,6 @@
 ---
 title: UWCANUT0521-d
-date: 2020-07-07 16:52:00 Z
+date: 2020-07-07 09:52:00 -07:00
 author: Elwin Managbanag
 form_id: 33?tfa_1202=StopHunger&CampName=UWCANUT0521-d&CADCampName=CWCANUT0521-d
 body_title: <strong class="text-5xl">Families on the brink of famine</strong><br />

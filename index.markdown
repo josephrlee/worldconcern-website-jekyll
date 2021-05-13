@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Home
-date: 2020-11-03 02:16:00 Z
+date: 2020-11-02 18:16:00 -08:00
+layout: page
 author: Joseph Lee
 banner_title: Families on the Brink of Famine
 banner_subtitle: Your gift of Hunger Survival Kits will DOUBLE to feed 2x as many

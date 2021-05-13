@@ -1,6 +1,6 @@
 ---
 title: Free Them 5k
-date: 2019-03-04 22:05:00 Z
+date: 2019-03-04 14:05:00 -08:00
 published: false
 author: Joseph Lee
 intro_title: <img src="/uploads/FY20-FreeThem5k-Logo-Square.png" alt="Free Them 5k"

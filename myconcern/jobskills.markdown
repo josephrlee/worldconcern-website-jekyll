@@ -1,6 +1,6 @@
 ---
 title: Teaching Job Skills
-date: 2014-02-07 00:27:00 Z
+date: 2014-02-06 16:27:00 -08:00
 published: false
 author: samk@worldconcern.org
 head_title: Teaching Job Skills | World Concern

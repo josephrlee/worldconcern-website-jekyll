@@ -1,6 +1,6 @@
 ---
 title: UWCAJUN2020-d-maj
-date: 2020-05-27 23:47:00 Z
+date: 2020-05-27 16:47:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCAJUN2020-d&CADCampName=CWCAJUN2020-d&tfa_1202=MajorDonor
 body_title: '<span class="emergency" style="text-transform: uppercase; font-weight:

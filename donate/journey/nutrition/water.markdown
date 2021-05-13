@@ -1,6 +1,6 @@
 ---
 title: UWCACHNJY19-wat
-date: 2018-10-15 22:19:00 Z
+date: 2018-10-15 15:19:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCACHNJY19-wat&CADCampName=CWCACHNJY19-wat&tfa_1202=Filter
 body_title: Save a Life with Clean Water

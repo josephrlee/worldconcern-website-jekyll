@@ -1,6 +1,6 @@
 ---
 title: Seek Out and Stop Child Trafficking
-date: 2016-03-14 21:51:00 Z
+date: 2016-03-14 14:51:00 -07:00
 author: Joseph Lee
 banner_title: Seek Out and Stop Child Trafficking
 banner_subtitle: Every single year, more than one million children are taken from

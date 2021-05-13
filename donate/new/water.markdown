@@ -1,6 +1,6 @@
 ---
 title: UWCANDSFY21-d-wat
-date: 2020-07-30 22:56:00 Z
+date: 2020-07-30 15:56:00 -07:00
 author: Elwin Managbanag
 form_id: 33?CampName=UWCANDSFY21-d-wat&CADCampName=CWCANDSFY21-d-wat&tfa_1202=Water
 body_title: The life-saving, life-changing gift of clean water!<br>

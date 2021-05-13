@@ -1,6 +1,6 @@
 ---
 title: Maramara, South Sudan
-date: 2017-07-10 18:53:00 Z
+date: 2017-07-10 11:53:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTMARAMARA&CADCampName=CWCOVTMARAMARA
 body_title: Transform the lives of families in Maramara, South Sudan

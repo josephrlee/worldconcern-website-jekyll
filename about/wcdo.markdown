@@ -1,6 +1,6 @@
 ---
 title: WCDO
-date: 2014-02-06 23:13:00 Z
+date: 2014-02-06 15:13:00 -08:00
 author: samk@worldconcern.org
 nav_title: Learn About WCDO
 head_title: WCDO

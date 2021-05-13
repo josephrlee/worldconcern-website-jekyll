@@ -1,6 +1,6 @@
 ---
 title: Haiti
-date: 2014-02-07 00:27:00 Z
+date: 2014-02-06 16:27:00 -08:00
 author: samk@worldconcern.org
 head_title: Haiti | World Concern
 banner_title: Haiti

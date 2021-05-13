@@ -1,6 +1,6 @@
 ---
 title: 44 CC Journey - 44 Cent Cure
-date: 2019-03-13 22:53:00 Z
+date: 2019-03-13 15:53:00 -07:00
 author: World Concern
 form_id: 33?CampName= UWCARADJY19-44c&CADCampName= CWCARADJY19-44c&tfa_1202=Cure
 body_title: Cure a Child Today!

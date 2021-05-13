@@ -1,6 +1,6 @@
 ---
 title: Thalouang, Laos
-date: 2019-12-16 22:31:00 Z
+date: 2019-12-16 14:31:00 -08:00
 published: false
 author: World Concern
 hide_in_nav: 

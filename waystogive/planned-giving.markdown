@@ -1,6 +1,6 @@
 ---
 title: Planned Giving
-date: 2014-02-07 00:10:00 Z
+date: 2014-02-06 16:10:00 -08:00
 author: samk@worldconcern.org
 head_title: Planned Giving | World Concern
 banner_title: Helping people on a larger scale

@@ -1,6 +1,6 @@
 ---
 title: Volunteer
-date: 2014-02-07 00:19:00 Z
+date: 2014-02-06 16:19:00 -08:00
 author: samk@worldconcern.org
 sidebar: |-
   ### Why do you volunteer?

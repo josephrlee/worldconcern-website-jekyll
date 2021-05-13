@@ -1,6 +1,6 @@
 ---
 title: UWCAWAT0819-a
-date: 2018-08-01 22:59:00 Z
+date: 2018-08-01 15:59:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCAWAT0819-a&CADCampName=CWCAWAT0819-a&tfa_1202=Filter
 body_title: Give a Life-Saving Water Filter Today

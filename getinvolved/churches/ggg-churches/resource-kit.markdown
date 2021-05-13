@@ -1,6 +1,6 @@
 ---
 title: Resource Kit
-date: 2018-09-21 21:28:00 Z
+date: 2018-09-21 14:28:00 -07:00
 published: false
 author: chage@crista.net
 banner_title: 'Church Resources: Christmas Resource Kit'

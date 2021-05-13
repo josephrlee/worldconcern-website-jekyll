@@ -1,6 +1,6 @@
 ---
 title: Uttar Shuhilpur, Bangladesh
-date: 2017-07-28 20:47:00 Z
+date: 2017-07-28 13:47:00 -07:00
 author: World Concern
 form_id: 37?CampName=UWCOVTUTTARSHUHILPUR&CADCampName=CWCOVTUTTARSHUHILPUR
 body_title: Transform the Village of Uttar Shuhilpur, Bangladesh

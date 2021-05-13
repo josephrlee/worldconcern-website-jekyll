@@ -1,6 +1,6 @@
 ---
 title: Spiritual Transformation
-date: 2020-11-07 01:08:00 Z
+date: 2020-11-06 17:08:00 -08:00
 author: Joseph Lee
 banner_title: 'We meet practical, life-saving needs, but we believe that there is
   a greater need. A universal one we all share: Reconciliation with God. Meeting practical

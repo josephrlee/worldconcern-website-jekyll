@@ -1,6 +1,6 @@
 ---
 title: UWCEDUCATE
-date: 2017-07-01 06:03:00 Z
+date: 2017-06-30 23:03:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCEDUCATE&CADCampName=CWCEDUCATE
 body_title: Educate a child and provide a path out of poverty

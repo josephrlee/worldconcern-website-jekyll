@@ -1,7 +1,75 @@
 ---
 title: Witness The Transformation
-url: http://worldconcern.org
 timezone: Pacific Time (US & Canada)
+collections:
+  about_press:
+    title: About Press
+    output: true
+    permalink: "/about/press/:path"
+  onevillage_abongo:
+    title: Onevillage Abongo
+    output: true
+    permalink: "/onevillage/abongo/:path"
+  onevillage_aluelweng:
+    title: Onevillage Aluelweng
+    output: true
+    permalink: "/onevillage/aluelweng/:path"
+  onevillage_azoo:
+    title: Onevillage Azoo
+    output: true
+    permalink: "/onevillage/azoo/:path"
+  onevillage_barthiang:
+    title: Onevillage Barthiang
+    output: true
+    permalink: "/onevillage/barthiang/:path"
+  onevillage_kuanya:
+    title: Onevillage Kuanya
+    output: true
+    permalink: "/onevillage/kuanya/:path"
+  onevillage_kuburchaj:
+    title: Onevillage Kuburchaj
+    output: true
+    permalink: "/onevillage/kuburchaj/:path"
+  onevillage_lolkuniani:
+    title: Onevillage Lolkuniani
+    output: true
+    permalink: "/onevillage/lolkuniani/:path"
+  onevillage_nkaroni:
+    title: Onevillage Nkaroni
+    output: true
+    permalink: "/onevillage/nkaroni/:path"
+  onevillage_pagisi:
+    title: Onevillage Pagisi
+    output: true
+    permalink: "/onevillage/pagisi/:path"
+  onevillage_ranguo:
+    title: Onevillage Ranguo
+    output: true
+    permalink: "/onevillage/ranguo/:path"
+  onevillage_rocroc:
+    title: Onevillage Rocroc
+    output: true
+    permalink: "/onevillage/rocroc/:path"
+  onevillage_tello:
+    title: Onevillage Tello
+    output: true
+    permalink: "/onevillage/tello/:path"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  villages:
+    title: Villages
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/posts/:title/"
+url: http://worldconcern.org
 permalink: pretty
 markdown: kramdown
 eoy_lightbox: 'false'
@@ -42,54 +110,5 @@ topnav_callout_banner: 'true'
 countdown_date: 
 eoy_lightbox_expiration_days: '1'
 countdown_text: Remaining to give in 2020!
-collections:
-  uploads:
-    title: Uploads
-    output: true
-  about_press:
-    output: true
-    permalink: "/about/press/:path"
-  onevillage_abongo:
-    output: true
-    permalink: "/onevillage/abongo/:path"
-  onevillage_aluelweng:
-    output: true
-    permalink: "/onevillage/aluelweng/:path"
-  onevillage_azoo:
-    output: true
-    permalink: "/onevillage/azoo/:path"
-  onevillage_barthiang:
-    output: true
-    permalink: "/onevillage/barthiang/:path"
-  onevillage_kuanya:
-    output: true
-    permalink: "/onevillage/kuanya/:path"
-  onevillage_kuburchaj:
-    output: true
-    permalink: "/onevillage/kuburchaj/:path"
-  onevillage_lolkuniani:
-    output: true
-    permalink: "/onevillage/lolkuniani/:path"
-  onevillage_nkaroni:
-    output: true
-    permalink: "/onevillage/nkaroni/:path"
-  onevillage_pagisi:
-    output: true
-    permalink: "/onevillage/pagisi/:path"
-  onevillage_ranguo:
-    output: true
-    permalink: "/onevillage/ranguo/:path"
-  onevillage_rocroc:
-    output: true
-    permalink: "/onevillage/rocroc/:path"
-  onevillage_tello:
-    output: true
-    permalink: "/onevillage/tello/:path"
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/posts/:title/"
 plugins:
-  - jekyll-postcss
+- jekyll-postcss

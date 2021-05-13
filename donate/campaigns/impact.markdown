@@ -1,6 +1,6 @@
 ---
 title: UWCAPHONE0321-d
-date: 2018-05-11 17:46:00 Z
+date: 2018-05-11 10:46:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCAPHONE0321-d&tfa_341=Give Monthly&tfa_1193=Yes&tfa_900=Bank
   Account

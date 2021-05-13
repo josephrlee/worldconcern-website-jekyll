@@ -1,6 +1,6 @@
 ---
 title: Thank You For Your Gift!
-date: 2014-05-01 01:13:00 Z
+date: 2014-04-30 18:13:00 -07:00
 author: Joseph Lee
 head_title: Thank You For Your Gift
 body_title: Thank You for Your Gift

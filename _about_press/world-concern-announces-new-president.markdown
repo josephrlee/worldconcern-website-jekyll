@@ -1,6 +1,6 @@
 ---
 title: World Concern Announces New President
-date: 2020-04-17 19:59:00 Z
+date: 2020-04-17 12:59:00 -07:00
 published: false
 banner_title: World Concern Announces New President
 banner_subtitle: Former Vice President Nick Archer Appointed to Lead Organization

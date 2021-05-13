@@ -1,6 +1,6 @@
 ---
 title: UWCAWAT0221-d
-date: 2017-07-01 06:22:00 Z
+date: 2017-06-30 23:22:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCAWAT0221-d&CADCampName=CWCAWAT0221-d&tfa_1202=Water
 body_title: |-

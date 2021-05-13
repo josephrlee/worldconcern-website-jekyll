@@ -1,6 +1,6 @@
 ---
 title: Non Pho, Laos
-date: 2019-12-16 23:03:00 Z
+date: 2019-12-16 15:03:00 -08:00
 published: false
 author: World Concern
 hide_in_nav: 

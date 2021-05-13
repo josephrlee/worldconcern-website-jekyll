@@ -1,6 +1,6 @@
 ---
 title: COVID-19
-date: 2020-03-20 16:50:00 Z
+date: 2020-03-20 09:50:00 -07:00
 author: Joseph Lee
 nav_title: COVID-19 Response
 head_title: World Concern’s Response to COVID-19

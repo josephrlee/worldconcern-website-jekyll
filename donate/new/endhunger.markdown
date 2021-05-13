@@ -1,6 +1,6 @@
 ---
 title: UWCACNNDS19-m-app
-date: 2018-07-12 01:14:00 Z
+date: 2018-07-11 18:14:00 -07:00
 author: World Concern
 form_id: 33?tfa_1202=Nutripackets&CampName=UWCACNNDS19-m-app&CADCampName=CWCACNNDS19-m-app
 body_title: <span class="emergency">Feed a Starving Child!</span>

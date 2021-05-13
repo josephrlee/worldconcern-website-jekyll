@@ -1,6 +1,6 @@
 ---
 title: Bernard, Haiti
-date: 2017-07-01 05:06:00 Z
+date: 2017-06-30 22:06:00 -07:00
 published: false
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTBERNARD&CADCampName=CWCOVTBERNARD

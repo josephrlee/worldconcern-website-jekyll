@@ -1,6 +1,6 @@
 ---
 title: UWCAWAT0221-d-maj
-date: 2018-08-04 00:41:00 Z
+date: 2018-08-03 17:41:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCAWAT0221-d&CADCampName=CWCAWAT0221-d&tfa_1202=WaterMajor
 body_title: |-

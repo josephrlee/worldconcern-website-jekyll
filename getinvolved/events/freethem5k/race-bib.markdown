@@ -1,6 +1,6 @@
 ---
 title: Race Bib
-date: 2020-05-06 22:53:00 Z
+date: 2020-05-06 15:53:00 -07:00
 author: Joseph Lee
 body_class: no-footer
 sidebar: |-

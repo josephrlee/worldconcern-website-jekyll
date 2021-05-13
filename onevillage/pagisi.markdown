@@ -1,6 +1,6 @@
 ---
 title: Pagisi, Uganda
-date: 2017-11-27 22:03:00 Z
+date: 2017-11-27 14:03:00 -08:00
 author: World Concern
 campaign_id: 70136000000tCpYAAU
 donate_link: "/donate/onevillage/pagisi"

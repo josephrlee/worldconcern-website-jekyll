@@ -1,6 +1,6 @@
 ---
 title: Harako, Chad
-date: 2014-02-07 00:40:00 Z
+date: 2014-02-06 16:40:00 -08:00
 published: false
 author: samk@worldconcern.org
 hide_in_nav: 'true'

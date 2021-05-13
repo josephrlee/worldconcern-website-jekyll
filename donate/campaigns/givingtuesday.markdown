@@ -1,6 +1,6 @@
 ---
 title: UWCAGIVT1120-d
-date: 2020-11-17 06:50:00 Z
+date: 2020-11-16 22:50:00 -08:00
 author: Joseph Lee
 form_id: 33?CampName=UWCAGIVT1120-d-A&CADCampName=CWCAGIVT1120-d-A
 body_title: 'DOUBLE Your Gift to Change Lives this #GivingTuesday!'

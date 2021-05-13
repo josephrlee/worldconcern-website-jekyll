@@ -1,6 +1,6 @@
 ---
 title: Nkaroni, Kenya
-date: 2019-02-14 17:29:00 Z
+date: 2019-02-14 09:29:00 -08:00
 author: World Concern
 campaign_id: 7011R000001PCplQAG
 donate_link: "/donate/onevillage/nkaroni"

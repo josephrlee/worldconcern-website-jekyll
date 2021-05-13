@@ -1,6 +1,6 @@
 ---
 title: Phiêng Ngàm, Vietnam
-date: 2019-12-12 17:14:00 Z
+date: 2019-12-12 09:14:00 -08:00
 published: false
 author: World Concern
 hide_in_nav: 

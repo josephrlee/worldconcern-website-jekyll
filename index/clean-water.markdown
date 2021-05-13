@@ -1,6 +1,6 @@
 ---
 title: Give Clean Water
-date: 2017-10-11 22:00:00 Z
+date: 2017-10-11 15:00:00 -07:00
 published: false
 author: Joseph Lee
 url: "/donate/campaigns/water?utm_campaign=UWCAWAT0820"

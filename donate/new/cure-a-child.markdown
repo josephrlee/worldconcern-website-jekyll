@@ -1,6 +1,6 @@
 ---
 title: UWCA44NDS19-e-app
-date: 2018-07-25 21:15:00 Z
+date: 2018-07-25 14:15:00 -07:00
 author: World Concern
 form_id: 33?CampName=UWCA44NDS19-e-app&CADCampName=CWCA44NDS19-e-app&tfa_1202=Cure
 body_title: Cure a Child from Parasites Today

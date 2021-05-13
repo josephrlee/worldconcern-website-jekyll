@@ -1,6 +1,6 @@
 ---
 title: Enchoro, Kenya
-date: 2017-07-01 05:11:00 Z
+date: 2017-06-30 22:11:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTENCHORO&CADCampName=CWCOVTENCHORO
 body_title: Transform the lives of families in Enchoro, Kenya

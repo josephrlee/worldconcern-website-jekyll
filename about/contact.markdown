@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2013-10-24 23:43:00 Z
+date: 2013-10-24 16:43:00 -07:00
 author: Joseph Lee
 hide_in_nav: 'true'
 head_title: Contact Us | World Concern

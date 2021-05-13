@@ -1,6 +1,6 @@
 ---
 title: UWCSUMM0121-d
-date: 2021-01-27 18:53:00 Z
+date: 2021-01-27 10:53:00 -08:00
 author: Elwin Managbanag
 form_id: 33?CampName=UWCSUMM0121-d&CADCampName=CWCSUMM0121-d
 body_title: Save Lives and Transform a Village with Your Gift Today!

@@ -1,6 +1,6 @@
 ---
 title: Food & Nutrition
-date: 2020-11-07 01:07:00 Z
+date: 2020-11-06 17:07:00 -08:00
 author: Joseph Lee
 banner_title: Food is a basic human need and an essential part of bringing the whole
   gospel to a village. A mother cannot hear the gospel over the cries of her hungry

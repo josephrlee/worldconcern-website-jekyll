@@ -1,6 +1,6 @@
 ---
 title: Thongkouang, Laos
-date: 2017-07-01 05:36:00 Z
+date: 2017-06-30 22:36:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTTHONGKOUANG&CADCampName=CWCOVTTHONGKOUANG
 body_title: Transform the lives of families in Thongkouang, Laos

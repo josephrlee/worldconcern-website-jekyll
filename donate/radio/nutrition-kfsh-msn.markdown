@@ -1,6 +1,6 @@
 ---
 title: UWCNKFSH1220-r Call Center
-date: 2020-11-24 21:48:00 Z
+date: 2020-11-24 13:48:00 -08:00
 author: World Concern
 form_id: 47?CampName=UWCNKFSH1220-r&tfa_1244=Nutripackets
 body_title: MSN Donation page for KFSH Nutrition Fundraiser

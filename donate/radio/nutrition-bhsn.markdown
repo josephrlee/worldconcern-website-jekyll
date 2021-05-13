@@ -1,6 +1,6 @@
 ---
 title: UWCNBHSN0220-d
-date: 2020-10-05 17:08:00 Z
+date: 2020-10-05 10:08:00 -07:00
 author: Joseph Lee
 form_id: 33?tfa_1202=NutripacketsRadio&tfa_3514=$110&CampName=UWCNBHSN0220&CADCampName=CWCNBHSN0220
 body_title: <span class="emergency">Save the life of a starving child!</span>

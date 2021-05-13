@@ -1,6 +1,6 @@
 ---
 title: Company Matching
-date: 2014-02-07 00:09:00 Z
+date: 2014-02-06 16:09:00 -08:00
 author: samk@worldconcern.org
 banner_title: Company Matching
 banner_subtitle: Company matching means double the good.

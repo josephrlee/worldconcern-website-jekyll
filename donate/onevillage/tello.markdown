@@ -1,6 +1,6 @@
 ---
 title: Tello, South Sudan
-date: 2017-07-01 05:33:00 Z
+date: 2017-06-30 22:33:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTTELLO&CADCampName=CWCOVTTELLO
 body_title: Transform the lives of families in Tello, South Sudan

@@ -1,6 +1,6 @@
 ---
 title: Bring the Gospel to People
-date: 2021-04-26 19:24:00 Z
+date: 2021-04-26 12:24:00 -07:00
 author: Joseph Lee
 url: "/donate/campaigns/goodnews/?utm_campaign=UWCAAPR2021"
 button_text: Deliver the Gospel

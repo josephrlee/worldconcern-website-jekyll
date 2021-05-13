@@ -1,6 +1,6 @@
 ---
 title: Kone Hsar, Myanmar
-date: 2019-06-04 14:05:00 Z
+date: 2019-06-04 07:05:00 -07:00
 published: false
 author: World Concern
 hide_in_nav: 

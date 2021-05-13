@@ -1,6 +1,6 @@
 ---
 title: 44 CC Journey - Clean Water
-date: 2019-03-13 22:51:00 Z
+date: 2019-03-13 15:51:00 -07:00
 author: World Concern
 form_id: 33?CampName= UWCARADJY19-wat&CADCampName= CWCARADJY19-wat&tfa_1202=Filter
 body_title: Save a Life with Clean Water

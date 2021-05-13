@@ -1,6 +1,6 @@
 ---
 title: UWCACHM0720-d-maj
-date: 2020-06-19 21:49:00 Z
+date: 2020-06-19 14:49:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCACHM0720-d&CADCampName=CWCACHM0720-d&tfa_1202=MajorDonor
 body_title: '<span class="emergency">Urgent: Rescue Girls From Forced Marriage</span>'

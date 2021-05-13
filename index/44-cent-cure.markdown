@@ -1,6 +1,6 @@
 ---
 title: Cure a Child From Intestinal Worms
-date: 2021-01-06 18:48:00 Z
+date: 2021-01-06 10:48:00 -08:00
 published: false
 author: Elwin Managbanag
 url: "/donate/campaigns/cure?utm_campaign=UWCA44C1020"

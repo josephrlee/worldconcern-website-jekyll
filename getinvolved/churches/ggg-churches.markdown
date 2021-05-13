@@ -1,6 +1,6 @@
 ---
 title: GGG Churches
-date: 2017-06-23 16:31:00 Z
+date: 2017-06-23 09:31:00 -07:00
 published: false
 author: Joseph Lee
 banner_title: Become a World Changing <br class='hide-for-medium-down' /> Church this

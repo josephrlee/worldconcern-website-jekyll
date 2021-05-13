@@ -1,6 +1,6 @@
 ---
 title: Providing Clean Water
-date: 2014-02-07 00:29:00 Z
+date: 2014-02-06 16:29:00 -08:00
 published: false
 author: samk@worldconcern.org
 head_title: Providing Clean Water | World Concern

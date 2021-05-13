@@ -1,6 +1,6 @@
 ---
 title: Deputized Staff
-date: 2017-07-01 06:26:00 Z
+date: 2017-06-30 23:26:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCAWEBPAGE00&CADCampName=CWCAWEBPAGE00
 body_title: Your Gift Transforms a Life!

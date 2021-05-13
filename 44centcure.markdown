@@ -1,6 +1,6 @@
 ---
 title: 44 Cent Cure
-date: 2014-02-06 22:52:00 Z
+date: 2014-02-06 14:52:00 -08:00
 author: samk@worldconcern.org
 nav-title: 
 head_title: 44-Cent Cure

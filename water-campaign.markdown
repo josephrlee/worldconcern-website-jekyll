@@ -1,6 +1,6 @@
 ---
 title: It Starts With Water
-date: 2019-08-02 22:39:00 Z
+date: 2019-08-02 15:39:00 -07:00
 published: false
 author: Joseph Lee
 banner_link: "#donate"

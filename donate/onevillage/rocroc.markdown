@@ -1,6 +1,6 @@
 ---
 title: Roc Roc, South Sudan
-date: 2017-07-01 05:31:00 Z
+date: 2017-06-30 22:31:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTROCROC&CADCampName=CWCOVTROCROC
 body_title: Transform the lives of families in Roc Roc, South Sudan

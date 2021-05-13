@@ -1,6 +1,6 @@
 ---
 title: Harako, Chad
-date: 2017-07-01 05:13:00 Z
+date: 2017-06-30 22:13:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVT-CHARAKO1&CADCampName=CWCOVTHARAKO
 body_title: Transform the lives of families in Harako, Chad

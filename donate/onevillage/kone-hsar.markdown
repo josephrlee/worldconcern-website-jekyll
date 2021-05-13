@@ -1,6 +1,6 @@
 ---
 title: Kone Hsar, Myanmar
-date: 2019-06-04 17:45:00 Z
+date: 2019-06-04 10:45:00 -07:00
 author: World Concern
 form_id: 37?CampName=UWCAOVTKONEHSAR&CADCampName=CWCAOVTKONEHSAR
 body_title: Help transform the village of Kone Hsar in Myanmar

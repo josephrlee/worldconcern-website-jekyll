@@ -1,6 +1,6 @@
 ---
 title: UWCKITZMAN
-date: 2017-07-01 05:22:00 Z
+date: 2017-06-30 22:22:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCKITZMAN&CADCampName=CWCKITZMAN
 body_title: Kitzman's Culligan Water and World Concern

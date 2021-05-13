@@ -1,6 +1,6 @@
 ---
 title: Donate Your Vehicle
-date: 2014-02-06 23:21:00 Z
+date: 2014-02-06 15:21:00 -08:00
 author: samk@worldconcern.org
 hide_in_nav: 'true'
 banner_title: Donate your used car

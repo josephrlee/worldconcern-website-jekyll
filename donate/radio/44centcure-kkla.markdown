@@ -1,6 +1,6 @@
 ---
 title: UWCNKKLA0221-r
-date: 2021-01-15 21:08:00 Z
+date: 2021-01-15 13:08:00 -08:00
 published: false
 author: World Concern
 form_id: 33?&CampName=UWCNKKLA0221-r&tfa_1202=44cent

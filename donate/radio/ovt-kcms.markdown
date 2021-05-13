@@ -1,6 +1,6 @@
 ---
 title: UWCNKCMS0221-r
-date: 2021-01-13 21:55:00 Z
+date: 2021-01-13 13:55:00 -08:00
 author: World Concern
 form_id: 37?CampName=UWCNKCMS0221-r&CADCampName=CWCNKCMS0221-r
 body_title: Help transform the village of Barthiang in South Sudan

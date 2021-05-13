@@ -1,6 +1,6 @@
 ---
 title: UWCACNNDS19-e-nl
-date: 2018-07-10 21:00:00 Z
+date: 2018-07-10 14:00:00 -07:00
 author: World Concern
 form_id: 33?tfa_1202=Nutripackets&CampName=UWCACNNDS19-e-nl&CADCampName=CWCACNNDN19-e-nl
 body_title: Please Help to Feed a Hungry Child!

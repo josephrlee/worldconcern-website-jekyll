@@ -1,6 +1,6 @@
 ---
 title: UWCASOSND19-e-app
-date: 2018-07-25 21:42:00 Z
+date: 2018-07-25 14:42:00 -07:00
 author: World Concern
 form_id: 33?CampName=UWCASOSND19-e-app&CADCampName=CWCASOSND19-e-app
 body_title: Rescue a Child from Trafficking and Abuse

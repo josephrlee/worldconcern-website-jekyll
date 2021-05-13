@@ -1,6 +1,6 @@
 ---
 title: CC Update
-date: 2019-08-09 22:30:00 Z
+date: 2019-08-09 15:30:00 -07:00
 author: Joseph Lee
 banner_image: 
 head_title: Update Your Credit Card Details

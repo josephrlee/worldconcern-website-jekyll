@@ -1,6 +1,6 @@
 ---
 title: Kuburchaj, South Sudan
-date: 2017-07-01 05:18:00 Z
+date: 2017-06-30 22:18:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTKUBURCHAJ&CADCampName=CWCOVTKUBURCHAJ
 body_title: Transform the lives of families in Kuburchaj, South Sudan

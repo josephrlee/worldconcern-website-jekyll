@@ -1,6 +1,6 @@
 ---
 title: UWCNKPRZ0221-r
-date: 2021-01-15 23:01:00 Z
+date: 2021-01-15 15:01:00 -08:00
 author: World Concern
 form_id: 33?&CampName=UWCNKPRZ0221-r&tfa_1202=44cent
 body_title: <span class="emergency">Save the life of a child suffering from parasites!</span>

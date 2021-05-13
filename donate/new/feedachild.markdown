@@ -1,6 +1,6 @@
 ---
 title: UWCACNNDS19-m-nl
-date: 2018-07-24 18:50:00 Z
+date: 2018-07-24 11:50:00 -07:00
 author: Joseph Lee
 form_id: 33?tfa_1202=Nutripackets&CampName=UWCACNNDS19-m-nl&CADCampName=CWCACNNDS19-m-nl
 body_title: Please Help to Feed a Hungry Child!

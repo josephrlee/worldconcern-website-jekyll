@@ -1,6 +1,6 @@
 ---
 title: Search
-date: 2014-01-29 22:22:00 Z
+date: 2014-01-29 14:22:00 -08:00
 author: samk@worldconcern.org
 nav_title: Search
 show_in_main_nav: 'false'

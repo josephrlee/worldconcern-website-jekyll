@@ -1,6 +1,6 @@
 ---
 title: Kitzman Water
-date: 2015-04-01 00:42:00 Z
+date: 2015-03-31 17:42:00 -07:00
 author: Joseph Lee
 banner_title: Kitzman's Culligan Water and World Concern
 banner_subtitle: Partnering to provide 20,000 people with clean water over 10 years.

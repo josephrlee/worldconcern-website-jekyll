@@ -1,6 +1,6 @@
 ---
 title: Stocks
-date: 2014-02-07 00:10:00 Z
+date: 2014-02-06 16:10:00 -08:00
 author: samk@worldconcern.org
 head_title: Stock Donations
 head_meta_desc: Thank you for considering a gift of stock to World Concern.

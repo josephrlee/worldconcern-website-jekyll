@@ -1,6 +1,6 @@
 ---
 title: Thank You
-date: 2020-04-07 23:03:00 Z
+date: 2020-04-07 16:03:00 -07:00
 author: Joseph Lee
 banner_title: Thank You!
 body_columns: large-8 large-push-2

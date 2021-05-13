@@ -1,6 +1,6 @@
 ---
 title: Ranguo, South Sudan
-date: 2016-12-16 19:27:00 Z
+date: 2016-12-16 11:27:00 -08:00
 author: Joseph Lee
 campaign_id: 70136000000tCpuAAE
 donate_link: "/donate/onevillage/ranguo"

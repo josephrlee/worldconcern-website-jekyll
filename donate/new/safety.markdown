@@ -1,6 +1,6 @@
 ---
 title: UWCASOSND19-m-nl
-date: 2018-07-25 21:38:00 Z
+date: 2018-07-25 14:38:00 -07:00
 author: World Concern
 form_id: 33?tfa_1202=SOS&CampName=UWCASOSND19-m-nl&CADCampName=CWCASOSND19-m-nl
 body_title: Protect Children from Trafficking

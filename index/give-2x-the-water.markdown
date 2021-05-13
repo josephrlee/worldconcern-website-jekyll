@@ -1,6 +1,6 @@
 ---
 title: Give 2x the Water
-date: 2021-02-26 20:06:00 Z
+date: 2021-02-26 12:06:00 -08:00
 author: Elwin Managbanag
 url: "/donate/campaigns/water/?utm_medium=Website&utm_source=World+Concern&utm_campaign=UWCAWAT0221&utm_term=Homepage+Banner&utm_content=Homepage+Banner"
 button_text: Double Your Impact

@@ -1,6 +1,6 @@
 ---
 title: Thalouang, Laos
-date: 2019-12-16 22:48:00 Z
+date: 2019-12-16 14:48:00 -08:00
 author: World Concern
 form_id: 37?CampName=UWCAOVTTHALOUANG&CADCampName=CWCAOVTTHALOUANG
 body_title: Help Transform the Village of Thalouang in Laos

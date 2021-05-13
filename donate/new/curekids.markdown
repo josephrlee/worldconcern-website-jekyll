@@ -1,6 +1,6 @@
 ---
 title: UWCA44NDS-m-nl
-date: 2018-07-25 21:27:00 Z
+date: 2018-07-25 14:27:00 -07:00
 author: World Concern
 form_id: 33?tfa_1202=Cure&CampName=UWCA44NDS19-m-nl&CADCampName=CWCA44NDS19-m-nl
 body_title: Cure a Child From Parasites!

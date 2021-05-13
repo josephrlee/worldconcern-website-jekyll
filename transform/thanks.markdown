@@ -1,6 +1,6 @@
 ---
 title: Thank You
-date: 2020-08-19 23:01:00 Z
+date: 2020-08-19 16:01:00 -07:00
 author: Joseph Lee
 footer_scripts: |-
   <!-- JS query string passing for FA -->

@@ -1,6 +1,6 @@
 ---
 title: UWCAAPR2021-d
-date: 2021-04-01 20:02:00 Z
+date: 2021-04-01 13:02:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCAAPR2021-d&CADCampName=CWCAAPR2021-d&tfa_1202=Gospel
 body_title: <span class="tracking-tight">Give the Hope of New Life in Christ</span><br

@@ -1,6 +1,6 @@
 ---
 title: CWCNCJSI0621-d
-date: 2021-05-06 23:43:00 Z
+date: 2021-05-06 16:43:00 -07:00
 author: World Concern
 form_id: 33?CampName=UWCNCJSI0621-r&CADCampName=CWCNCJSI0621-r&tfa_2231=Canada&tfa_1202=NutritionRadio
 body_title: <span class="emergency">Save the life of a starving child!</span>

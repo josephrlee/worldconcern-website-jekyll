@@ -1,6 +1,6 @@
 ---
 title: About Us
-date: 2013-11-05 18:19:00 Z
+date: 2013-11-05 10:19:00 -08:00
 author: samk@worldconcern.org
 nav_title: Learn About World Concern
 show_in_main_nav: 'true'

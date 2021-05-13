@@ -1,6 +1,6 @@
 ---
 title: 44-Cent Cure
-date: 2019-03-13 22:33:00 Z
+date: 2019-03-13 15:33:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCACHNJY19&CADCampName=CWCACHNJY19&tfa_1202=Cure
 body_title: How Does the 44-Cent Cure Work to Change Lives?

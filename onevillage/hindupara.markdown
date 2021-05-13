@@ -1,6 +1,6 @@
 ---
 title: Hindu Para, Bangladesh
-date: 2016-12-22 18:39:00 Z
+date: 2016-12-22 10:39:00 -08:00
 published: false
 author: Joseph Lee
 nav_title: Hindu Para

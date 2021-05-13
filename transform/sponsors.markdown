@@ -1,6 +1,6 @@
 ---
 title: Sponsors
-date: 2019-06-26 20:32:00 Z
+date: 2019-06-26 13:32:00 -07:00
 published: false
 author: Joseph Lee
 sidebar: 

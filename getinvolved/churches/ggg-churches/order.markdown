@@ -1,6 +1,6 @@
 ---
 title: Order a Kit
-date: 2018-09-21 21:09:00 Z
+date: 2018-09-21 14:09:00 -07:00
 published: false
 author: chage@crista.net
 banner_title: Yes! I want to bring the world to my church this Christmas!

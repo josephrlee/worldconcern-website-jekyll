@@ -1,6 +1,6 @@
 ---
 title: Maramara, Chad
-date: 2014-07-17 00:25:00 Z
+date: 2014-07-16 17:25:00 -07:00
 published: false
 author: Joseph Lee
 nav_title: Maramara

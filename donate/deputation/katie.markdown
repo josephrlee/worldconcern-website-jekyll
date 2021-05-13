@@ -1,6 +1,6 @@
 ---
 title: UWCD1KT
-date: 2017-07-01 06:33:00 Z
+date: 2017-06-30 23:33:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCD1KT&CADCampName=CWCD1KT
 body_title: Support Katie

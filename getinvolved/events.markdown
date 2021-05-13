@@ -1,6 +1,6 @@
 ---
 title: Events
-date: 2014-02-07 00:18:00 Z
+date: 2014-02-06 16:18:00 -08:00
 published: false
 author: Joseph Lee
 banner_title: Join us for us virtually for Transform 2020!

@@ -1,6 +1,6 @@
 ---
 title: Thanks
-date: 2020-04-17 18:56:00 Z
+date: 2020-04-17 11:56:00 -07:00
 author: Joseph Lee
 banner_title: 'Thank you for contacting World Concern! '
 banner_image: "/assets/images/banners/contact-banner.jpg"

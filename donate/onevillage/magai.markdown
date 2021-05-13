@@ -1,6 +1,6 @@
 ---
 title: Magai, South Sudan
-date: 2017-07-01 05:22:00 Z
+date: 2017-06-30 22:22:00 -07:00
 author: Joseph Lee
 form_id: 37?CampName=UWCOVTMAGAI&CADCampName=CWCOVTMAGAI
 body_title: Transform the lives of families in Magai, South Sudan

@@ -1,6 +1,6 @@
 ---
 title: UWCAWAT0920-d
-date: 2017-07-01 06:26:00 Z
+date: 2017-06-30 23:26:00 -07:00
 author: Joseph Lee
 form_id: 33?tfa_1202=Water&CampName=UWCAWAT0920-d&CADCampName=CWCAWAT0920-d
 body_title: '<strong class="large" style="text-transform: uppercase;">Quest for Water</strong>

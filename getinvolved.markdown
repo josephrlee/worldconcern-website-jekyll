@@ -1,6 +1,6 @@
 ---
 title: Get Involved
-date: 2014-01-29 22:21:00 Z
+date: 2014-01-29 14:21:00 -08:00
 author: samk@worldconcern.org
 nav_title: Get Involved
 show_in_main_nav: 'true'

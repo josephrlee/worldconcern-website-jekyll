@@ -1,6 +1,6 @@
 ---
 title: Empura, Kenya
-date: 2016-03-21 23:38:00 Z
+date: 2016-03-21 16:38:00 -07:00
 published: false
 author: Joseph Lee
 nav_title: Empura

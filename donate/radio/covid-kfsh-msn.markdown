@@ -1,6 +1,6 @@
 ---
 title: UWCNKFSH0620-r
-date: 2019-11-29 22:52:00 Z
+date: 2019-11-29 14:52:00 -08:00
 author: World Concern
 form_id: 47?tfa_1244=Covid&CampName=UWCNKFSH0620-r
 body_title: KFSH MSN Donation Form for COVID-19 Relief

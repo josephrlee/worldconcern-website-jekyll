@@ -1,6 +1,6 @@
 ---
 title: Barthiang, South Sudan
-date: 2019-02-01 18:11:00 Z
+date: 2019-02-01 10:11:00 -08:00
 author: World Concern
 campaign_id: 7011R000001PFnEQAW
 donate_link: "/donate/onevillage/barthiang"

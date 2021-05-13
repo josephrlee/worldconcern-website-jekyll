@@ -1,6 +1,6 @@
 ---
 title: Salt and Light
-date: 2018-09-05 23:03:00 Z
+date: 2018-09-05 16:03:00 -07:00
 published: false
 author: World Concern
 banner_title: Salt and Light

@@ -1,6 +1,6 @@
 ---
 title: UWCNKLTY0820-r
-date: 2018-07-26 18:43:00 Z
+date: 2018-07-26 11:43:00 -07:00
 author: World Concern
 form_id: 47?CampName=UWCNKLTY0820-r&tfa_1244=CovidWater
 body_title: MSN Donation Page for KLTY for Clean Water

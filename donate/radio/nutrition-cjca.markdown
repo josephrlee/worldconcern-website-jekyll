@@ -1,6 +1,6 @@
 ---
 title: CWCNCJCA1020-d
-date: 2020-09-25 19:32:00 Z
+date: 2020-09-25 12:32:00 -07:00
 author: World Concern
 form_id: 33?CampName=UWCNCJCA1020-r&CADCampName=CWCNCJCA1020-r&tfa_2231=Canada&tfa_1202=NutripacketsRadio
 body_title: <span class="emergency">Save the life of a starving child!</span>

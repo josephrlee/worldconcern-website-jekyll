@@ -1,6 +1,6 @@
 ---
 title: COVID KKLA KPRZ MSN
-date: 2019-12-03 00:38:00 Z
+date: 2019-12-02 16:38:00 -08:00
 author: World Concern
 form_id: '67'
 body_title: KKLA & KPRZ MSN Donation Form for COVID-19 Relief

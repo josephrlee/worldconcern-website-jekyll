@@ -1,6 +1,6 @@
 ---
 title: One Village
-date: 2014-02-07 00:37:00 Z
+date: 2014-02-06 16:37:00 -08:00
 author: samk@worldconcern.org
 head_title: One Village Transformed
 banner_title: One Village Transformed

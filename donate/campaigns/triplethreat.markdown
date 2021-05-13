@@ -1,6 +1,6 @@
 ---
 title: UWCAJUN2020-d
-date: 2017-07-01 06:19:00 Z
+date: 2017-06-30 23:19:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCAJUN2020-d&CADCampName=CWCAJUN2020-d
 body_title: '<span class="emergency" style="text-transform: uppercase; font-weight:

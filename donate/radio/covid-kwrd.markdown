@@ -1,6 +1,6 @@
 ---
 title: UWCNKWRD0820-d
-date: 2018-07-26 18:10:00 Z
+date: 2018-07-26 11:10:00 -07:00
 author: World Concern
 form_id: 33?&CampName=UWCNKWRD0820-r&tfa_1202=CovidWater
 body_title: <span class="emergency">Give the Gift of Clean Water and Covid Protection!</span>

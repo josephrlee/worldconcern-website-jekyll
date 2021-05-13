@@ -1,6 +1,6 @@
 ---
 title: UWCACHNJY19-chn
-date: 2018-10-15 22:19:00 Z
+date: 2018-10-15 15:19:00 -07:00
 author: Joseph Lee
 form_id: 33?CampName=UWCACHNJY19-chn&CADCampName=CWCACHNJY19-chn&tfa_1202=Nutripackets
 body_title: Feed a Starving Child

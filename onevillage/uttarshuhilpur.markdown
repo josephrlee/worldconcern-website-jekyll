@@ -1,6 +1,6 @@
 ---
 title: Uttar Shuhilpur, Bangaldesh
-date: 2016-12-22 21:52:00 Z
+date: 2016-12-22 13:52:00 -08:00
 published: false
 author: Joseph Lee
 nav_title: Uttar Shuhilpur

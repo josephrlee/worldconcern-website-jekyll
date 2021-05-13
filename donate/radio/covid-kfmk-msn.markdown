@@ -1,6 +1,6 @@
 ---
 title: UWCNKFMK0620-r
-date: 2019-07-31 22:23:00 Z
+date: 2019-07-31 15:23:00 -07:00
 author: World Concern
 form_id: 47?tfa_1244=Covid&CampName=UWCNKFMK0620-r
 body_title: KFMK MSN Donation Form for COVID-19 Relief

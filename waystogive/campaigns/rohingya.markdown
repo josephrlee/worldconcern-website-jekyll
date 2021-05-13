@@ -1,6 +1,6 @@
 ---
 title: Rohingya Refugee Crisis
-date: 2018-02-02 23:51:00 Z
+date: 2018-02-02 15:51:00 -08:00
 published: false
 author: Joseph Lee
 banner_link: "/donate/disasters/rohingya-crisis/?utm_medium=website&utm_campaign=fy18_february_rohingya&utm_source=worldconcern&utm_content=homepage"

@@ -1,6 +1,6 @@
 ---
 title: Bangladesh
-date: 2014-02-07 00:25:00 Z
+date: 2014-02-06 16:25:00 -08:00
 author: samk@worldconcern.org
 head_title: Bangladesh | World Concern
 banner_title: Bangladesh

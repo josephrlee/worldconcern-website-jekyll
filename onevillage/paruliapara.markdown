@@ -1,6 +1,6 @@
 ---
 title: Parulia Para, Bangladesh
-date: 2016-12-22 19:29:00 Z
+date: 2016-12-22 11:29:00 -08:00
 published: false
 author: Joseph Lee
 nav_title: Parulia Para

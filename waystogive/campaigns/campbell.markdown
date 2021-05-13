@@ -1,6 +1,6 @@
 ---
 title: Buy a Car, Give a Goat
-date: 2014-02-06 23:31:00 Z
+date: 2014-02-06 15:31:00 -08:00
 author: samk@worldconcern.org
 banner_title: 'Drive Away Poverty: Buy a Car, Give a Goat!'
 banner_subtitle: In partnership with Campbell Nissan &amp; Volkswagen

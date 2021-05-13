@@ -1,6 +1,6 @@
 ---
 title: Transform Gala
-date: 2015-07-28 00:08:00 Z
+date: 2015-07-27 17:08:00 -07:00
 published: false
 author: Joseph Lee
 google_maps_embed_url: https://snazzymaps.com/embed/83589

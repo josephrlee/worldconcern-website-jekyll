@@ -1,6 +1,6 @@
 ---
 title: UWCANUT0521-d-maj
-date: 2019-02-05 20:55:00 Z
+date: 2019-02-05 12:55:00 -08:00
 author: Joseph Lee
 form_id: 33?tfa_1202=StopHungerMajor&CampName=UWCANUT0521-d&CADCampName=CWCANUT0521-d
 body_title: <strong class="text-5xl">Families on the brink of famine</strong><br />

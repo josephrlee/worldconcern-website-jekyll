@@ -1,6 +1,6 @@
 ---
 title: Aluelweng, South Sudan
-date: 2019-01-03 20:43:00 Z
+date: 2019-01-03 12:43:00 -08:00
 author: World Concern
 campaign_id: 7011R000001PE1LQAW
 donate_link: "/donate/onevillage/aluelweng"

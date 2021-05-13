@@ -1,6 +1,6 @@
 ---
 title: Call Center KWPZ OVT Fundraiser
-date: 2021-01-13 21:48:00 Z
+date: 2021-01-13 13:48:00 -08:00
 author: World Concern
 form_id: 47?CampName=UWCNKWPZ0121-r&CADCampName=CWCNKWPZ0121-r&tfa_3506=Canada&tfa_1244=44cent
 body_title: MSN Donation Page for KWPZ OVT Fundraiser

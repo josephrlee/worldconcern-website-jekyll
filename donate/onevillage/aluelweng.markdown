@@ -1,6 +1,6 @@
 ---
 title: Aluelweng, South Sudan
-date: 2019-01-03 20:24:00 Z
+date: 2019-01-03 12:24:00 -08:00
 author: World Concern
 form_id: 37?CampName=UWCAOVTALUELWENG-d&CADCampName=CWCAOVTALUELWENG-d
 body_title: Help transform the village of Aluelweng in South Sudan

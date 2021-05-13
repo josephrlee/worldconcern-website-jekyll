@@ -1,6 +1,6 @@
 ---
 title: Spiritual Transformation
-date: 2021-04-22 20:53:00 Z
+date: 2021-04-22 13:53:00 -07:00
 num: '4'
 ---
 

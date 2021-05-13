@@ -1,6 +1,6 @@
 ---
 title: UWCNSASC0620-d
-date: 2020-07-07 16:44:00 Z
+date: 2020-07-07 09:44:00 -07:00
 author: Elwin Managbanag
 form_id: 33?CampName=UWCNSASC0620
 body_title: '<span class="emergency" style="text-transform: uppercase; font-weight:

@@ -1,6 +1,6 @@
 ---
 title: Prayer
-date: 2020-04-07 01:12:00 Z
+date: 2020-04-06 18:12:00 -07:00
 author: Joseph Lee
 banner_image: "/assets/images/prayer/prayer_banner.jpg"
 head_title: Please Pray With Us

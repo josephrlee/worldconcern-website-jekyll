@@ -1,6 +1,6 @@
 ---
 title: UWCNKWPZ0820-d
-date: 2019-01-15 01:23:00 Z
+date: 2019-01-14 17:23:00 -08:00
 author: World Concern
 form_id: 33?tfa_1202=ChildMarraige&CampName=UWCNKWPZ0820-r&CADCampName=CWCNKWPZ0820-r&tfa_2231=Canada
 body_title: '<span class="emergency">Urgent: Rescue Girls From Forced Marriage</span>'

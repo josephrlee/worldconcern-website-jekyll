@@ -1,6 +1,6 @@
 ---
 title: Lolkuniani, Kenya
-date: 2018-12-22 04:58:00 Z
+date: 2018-12-21 20:58:00 -08:00
 author: World Concern
 map_source: https://www.google.com/maps/d/u/0/embed?mid=16h_GS1g5aaVfxlgbyy7ImNBDxjWzteJs"
   width="640" height="480

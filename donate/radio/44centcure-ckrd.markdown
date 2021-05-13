@@ -1,6 +1,6 @@
 ---
 title: CWCNCKRD0221-r
-date: 2021-01-08 23:08:00 Z
+date: 2021-01-08 15:08:00 -08:00
 author: World Concern
 form_id: 33?CampName=UWCNCKRD0221-r&CADCampName=CWCNCKRD0221-r&tfa_2231=Canada&tfa_1202=44cent
 body_title: <span class="emergency">Save the life of a child suffering from parasites!</span>

@@ -1,6 +1,6 @@
 ---
 title: Churches
-date: 2014-02-07 00:18:00 Z
+date: 2014-02-06 16:18:00 -08:00
 author: samk@worldconcern.org
 banner_title: Churches
 banner_subtitle: Transform lives with Christ’s love and fulfill your calling to care

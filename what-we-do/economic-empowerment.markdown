@@ -1,6 +1,6 @@
 ---
 title: Economic Empowerment
-date: 2020-11-07 01:08:00 Z
+date: 2020-11-06 17:08:00 -08:00
 author: Joseph Lee
 banner_title: A stable income means parents can give their children the proper nutrition
   they need to thrive, provide medicine when they are sick, and send them to school.
