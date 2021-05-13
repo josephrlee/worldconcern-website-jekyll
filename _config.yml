@@ -6,6 +6,9 @@ collections:
     title: About Press
     output: true
     permalink: "/about/press/:path"
+  donation-pages:
+    title: Donation Pages
+    output: true
   onevillage_abongo:
     title: Onevillage Abongo
     output: true
