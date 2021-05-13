@@ -1,0 +1,95 @@
+---
+title: Witness The Transformation
+url: http://worldconcern.org
+timezone: Pacific Time (US & Canada)
+permalink: pretty
+markdown: kramdown
+eoy_lightbox: 'false'
+eoy_lightbox_title: Your Gift by Dec. 31 Doubles!
+eoy_lightbox_subhead: 'Give now to double your impact and reach families in greatest
+  need. '
+eoy_lightbox_link: "/donate/campaigns/matchinggift/?utm_medium=Website&utm_source=World+Concern&utm_campaign=UWCADEC1220&utm_term=Lightbox&utm_content=Lightbox"
+description: World Concern is a Christian global relief and development agency extending
+  opportunity and hope to people facing extreme poverty.
+multiplier_text: Your Gift Doubles
+eoy_lightbox_alt: Send A Life-Saving Gift by December 31st!
+multiplier: 2x!
+eoy_lightbox_cta: Donate Now
+eoy_lightbox_image: "/uploads/December-Appeal-FY21-General-Homepage-Banner-Alt.jpg"
+member_accord_url: https://accordnetwork.org/about/members/
+member_integral_url: https://www.integralalliance.org/about/our-members/world-concer/
+member_efca_url: https://www.ecfa.org/MemberProfile.aspx?ID=4508&Type=Subsidiary
+member_charitynav_url: http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3586
+contact_email: mailto:info@worldconcern.org
+contact_tel: tel:800-755-5022
+address_street: 19303 Fremont Ave N
+address_city: Seattle
+address_state: WA
+address_zip: '98133'
+footer_about_wc: "<strong>World Concern</strong> is a Christian global relief and
+  development agency extending opportunity and hope to people facing extreme poverty."
+footer_donate_url: "/donate/?utm_medium=Website&utm_campaign=UWCWEBPAGE00&utm_source=World+Concern&utm_content=Footer+Button&utm_term=Appeal"
+social_fb_url: https://www.facebook.com/worldconcern
+social_twitter_url: https://twitter.com/worldconcern
+social_instagram_url: https://www.instagram.com/worldconcern
+social_youtube_url: https://www.youtube.com/c/WorldConcernorg
+topnav_callout_banner_mobile: India COVID-19 Crisis
+topnav_callout_banner_desktop: India COVID-19 Crisis
+topnav_callout_banner_cta: Help Now
+topnav_callout_banner_url: "/donate/campaigns/india/?utm_medium=Website&utm_source=World+Concern&utm_campaign=UWCDINDIA0521&utm_term=Top+Nav&utm_content=Top+Nav"
+topnav_callout_banner_url_title: Donate Now
+topnav_callout_banner: 'true'
+countdown_date: 
+eoy_lightbox_expiration_days: '1'
+countdown_text: Remaining to give in 2020!
+collections:
+  uploads:
+    title: Uploads
+    output: true
+  about_press:
+    output: true
+    permalink: "/about/press/:path"
+  onevillage_abongo:
+    output: true
+    permalink: "/onevillage/abongo/:path"
+  onevillage_aluelweng:
+    output: true
+    permalink: "/onevillage/aluelweng/:path"
+  onevillage_azoo:
+    output: true
+    permalink: "/onevillage/azoo/:path"
+  onevillage_barthiang:
+    output: true
+    permalink: "/onevillage/barthiang/:path"
+  onevillage_kuanya:
+    output: true
+    permalink: "/onevillage/kuanya/:path"
+  onevillage_kuburchaj:
+    output: true
+    permalink: "/onevillage/kuburchaj/:path"
+  onevillage_lolkuniani:
+    output: true
+    permalink: "/onevillage/lolkuniani/:path"
+  onevillage_nkaroni:
+    output: true
+    permalink: "/onevillage/nkaroni/:path"
+  onevillage_pagisi:
+    output: true
+    permalink: "/onevillage/pagisi/:path"
+  onevillage_ranguo:
+    output: true
+    permalink: "/onevillage/ranguo/:path"
+  onevillage_rocroc:
+    output: true
+    permalink: "/onevillage/rocroc/:path"
+  onevillage_tello:
+    output: true
+    permalink: "/onevillage/tello/:path"
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/posts/:title/"
+plugins:
+  - jekyll-postcss

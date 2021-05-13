@@ -1,0 +1,150 @@
+---
+layout: default
+---
+
+<!-- MAIN SECTION -->
+<!-- features -->
+<section class="xxl:container xxl:px-8 justify-between lg:max-w-5xl xl:max-w-6xl px-4 mx-auto sm:px-8 lg:px-4 xl:px-6 py-18 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
+  
+  <!-- current needs -->
+  {% for page in current.pages %}
+  <div class="feature">
+    {% if page.meta.funraise == "true" %}
+    <a aria-label="Donate" data-formId="{{ page.meta.funraise_form_id }}" class="cursor-pointer" title="{{ page.title }}">
+      <picture class="aspect-h-7 aspect-w-12 md:aspect-h-1 md:aspect-w-1 my-6 block">
+        <source media="(min-width: 640px)" srcset="{{page.meta.img_desktop}}" />
+        <img src="{{ page.meta.img_mobile }}" loading="lazy" class="object-cover rounded-wc" alt="{{ page.title }}" />
+      </picture>
+    </a>
+    {% else %}
+    <a href="{{ page.meta.url }}&utm_medium=Website&utm_source=World+Concern&utm_term=Homepage+Banner&utm_content=Homepage+Banner" title="{{ page.title }}" >
+      <picture class="aspect-h-7 aspect-w-12 md:aspect-h-1 md:aspect-w-1 my-6 block">
+        <source media="(min-width: 640px)" srcset="{{page.meta.img_desktop}}" />
+        <img src="{{ page.meta.img_mobile }}" loading="lazy" class="object-cover rounded-wc" alt="{{ page.title }}" />
+      </picture>
+    </a>
+    {% endif %}
+    <h6 class="mb-3 text-lg text-teal-500">{{page.title}}</h6>
+    {{ page.body }}
+    <p>
+      {% if page.meta.funraise == "true" %}
+      <button class="wc-btn-text focus:outline-none" type="button" aria-label="Donate" data-formId="{{ page.meta.funraise_form_id }}">{{ page.meta.button_text }}&nbsp;&nbsp;<span class="text-lg">&raquo;</span></button>
+      {% else %}
+      <a href="{{ page.meta.url }}&utm_medium=Website&utm_source=World+Concern&utm_term=Homepage+Banner&utm_content=Homepage+Banner" class="wc-btn-text" title="Donate Now">{{ page.meta.button_text }}&nbsp;&nbsp;<span class="text-lg">&raquo;</span></a>
+      {% endif %}
+    </p>
+  </div>
+  {% endfor %}
+  <!-- / current needs -->
+  
+</section>
+<!-- / features -->
+
+<!-- sponsor a village -->
+<section class="w-full py-18 mx-auto bg-dkgray-100">
+  <div class="xxl:container flex flex-col md:flex-row items-center justify-between lg:max-w-5xl xl:max-w-6xl sm:mx-auto px-4 sm:px-12 lg:px-4 xl:px-6 xxl:px-8">
+    <div class="w-full md:w-2/5">
+      <h3 class="text-teal-500">Sponsor a Village</h3>
+      <p>Families living in extreme poverty in remote villages are ready and waiting for change. With your $39 monthly gift, you’ll walk alongside moms, dads, and little ones in a specific village as they move from poverty to an abundant, transformed life.</p>
+      <p class="mt-6">
+        <a href="/what-we-do#villages" class="wc-btn wc-btn-lime">View All Villages&nbsp;&nbsp;<span class="text-base sm:text-lg">&raquo;</span></a>
+      </p>
+    </div>
+    
+    <picture class="w-full md:w-1/2 mt-12 md:mt-0 aspect-h-3 aspect-w-2 sm:aspect-h-4 sm:aspect-w-5 md:aspect-h-5 md:aspect-w-12">
+      <source media="(min-width: 640px)" srcset="/assets/home_sponsor-a-village-l@2x.jpg" />
+      <img loading="lazy" src="/assets/home_sponsor-a-village-p@2x.jpg" alt="Sponsor a Village" class="rounded-wc object-cover"/>
+    </picture>
+  
+  </div>
+</section>
+<!-- / sponsor a village -->
+
+<!-- where we work -->
+<section class="w-full py-18 mx-auto">
+  <div class="xxl:container flex flex-col md:flex-row-reverse items-center justify-between lg:max-w-5xl xl:max-w-6xl sm:mx-auto px-4 sm:px-12 lg:px-4 xl:px-6 xxl:px-8">
+    <div class="w-full md:w-2/5">
+      <h3 class="text-teal-500">Not Your Typical Mission&nbsp;Field</h3>
+      <p>World Concern is a Christian relief and development organization working in the poorest, most remote places&nbsp;– places many have called hopeless. With your help, we go to the people who live every day with the threat of famine, drought, war, sickness, and despair.</p>
+      <p class="mt-6">
+        <a href="what-we-do#countries" class="wc-btn wc-btn-lime">See Where We Work&nbsp;&nbsp;<span class="text-base sm:text-lg">&raquo;</span></a>
+      </p>
+    </div>
+    <picture class="w-full md:w-1/2 mt-12 md:mt-0 aspect-h-3 aspect-w-2 sm:aspect-h-4 sm:aspect-w-5 md:aspect-h-5 md:aspect-w-12">
+      <source media="(min-width: 640px)" srcset="/assets/home_where-we-work-l@2x.jpg" />
+      <img loading="lazy" src="/assets/home_where-we-work-p@2x.jpg" alt="Where We Work" class="rounded-wc "/>
+    </picture>
+  </div>
+</section>
+<!-- / where we work -->
+
+<!-- our approach -->
+<!-- < small  -->
+<section class="sm:hidden w-full pt-3/4" style="background: url(/assets/images/home_our-approach_m.jpg) center -44px no-repeat; background-size: 100%">
+  <div class="pb-18 px-4 bg-teal-500">
+    <h3 class="text-white">Our Approach to Poverty is&nbsp;Different.</h3>
+    <p class="text-white">We start by listening. Every community’s needs are unique, and we help each village identify ways they can improve their lives. Empowered individuals mobilize their communities. They take ownership of the work and become agents of their own change. With the support of people like you, and the experience of World Concern, families and villages become self-sufficient.</p>
+    <p>
+      <a href="/about#approach" class="wc-btn wc-btn-lime wc-btn-dkbg">See How We&rsquo;re Different&nbsp;&nbsp;<span class="text-base">&raquo;</span></a>
+    </p>
+  </div>
+</section>
+<!-- / < small -->
+
+<!-- > sm+ -->
+<section class="hidden sm:block py-32 lg:py-36 xl:py-48" style="background: linear-gradient(90deg, rgba(0, 175, 181, 1) 0%, rgba(0, 175, 181, 0.75) 35%, rgba(0, 175, 181, 0) 70%), url(/assets/images/home_our-approach.jpg) center no-repeat; background-size: cover">
+  <div class="xxl:container flex items-xxl:px-8 center lg:max-w-5xl xl:max-w-6xl sm:mx-auto px-4 sm:px-12 lg:px-4 xl:px-6 xxl:px-8">
+    <div class="w-full sm:w-1/2">
+      <h3 class="text-white">Our Approach to Poverty is&nbsp;Different.</h3>
+      <p class="text-white">We start by listening. Every community’s needs are unique, and we help each village identify ways they can improve their lives. Empowered individuals mobilize their communities. They take ownership of the work and become agents of their own change. With the support of people like you, and the experience of World Concern, families and villages become self-sufficient.</p>
+      <p>
+        <a href="/about#approach" class="inline-block w-full sm:w-auto py-3 sm:py-4 px-8 bg-lime-500 hover:bg-lime-600 transition duration-300 ease-in-out rounded-wc font-headline text-sm sm:text-base text-white text-shadow-button font-bold text-center uppercase">See How We&rsquo;re Different&nbsp;&nbsp;<span class="text-base sm:text-lg">&raquo;</span></a>
+      </p>
+    </div>
+  </div>
+</section>
+<!-- / sm+ -->
+<!-- / our approach -->
+
+<!-- compassionate people -->
+<section class="py-18">
+  <div class="xxl:container flex flex-col md:flex-row items-center justify-between lg:max-w-5xl xl:max-w-6xl sm:mx-auto px-4 sm:px-12 lg:px-4 xl:px-6 xxl:px-8">
+    <div class="relative w-full md:w-1/2 md:mt-8 rounded-wc overflow-hidden">
+      <img loading="lazy" src="/assets/images/home_compassionate-people@2x.jpg" alt="" class="w-full h-full" />
+    </div>
+    <div class="w-full md:w-2/5">
+      <h3 class="text-teal-500">Compassionate people like you make this work possible.</h3>
+      <p>Ready to make an impact? We invite you to join us at the end of the road. Our prayer is that you’ll be transformed on this journey too.</p>
+      <p class="mt-6">
+        <a href="/waystogive" class="wc-btn wc-btn-lime">Ways to Give&nbsp;&nbsp;<span class="text-base sm:text-lg">&raquo;</span></a>
+      </p>
+    </div>
+  </div>
+</section>
+<!-- / compassionate people -->
+
+<!-- stay connected -->
+<!-- <section class="py-18 bg-lime-500">
+    <div class="xxl:container lg:max-w-5xl xl:max-w-6xl sm:mx-auto px-4 sm:px-12 lg:px-4 xl:px-6 xxl:px-8">
+      <h3 class="mb-16 text-white text-center">Stay Connected with World Concern</h3>
+      <img loading="lazy" src="/assets/images/form-fields-mobile-fpo.svg" alt="" class="lg:hidden block mx-auto" />
+      <img loading="lazy" src="/assets/images/form-fields-fpo.svg" alt="" class="hidden lg:block mx-auto px-4" />
+    </div>
+  </section> -->
+<!-- / stay connected -->
+
+<!-- contact us -->
+<section class="pb-16 border-b border-dkgray-100">
+  <div class="aspect-h-1 aspect-w-1 md:aspect-h-5 md:aspect-w-12">
+    <img loading="lazy" src="/assets/images/home_contact-us.jpg" alt="" class="object-cover object-top"/>
+  </div>
+  <div class="relative -mt-16 md:-mt-20 lg:-mt-32 sm:max-w-lg md:max-w-xl lg:max-w-3xl xl:max-w-5xl mx-4 sm:mx-auto p-8 md:pt-8 lg:pt-12 bg-white rounded-wc z-20 text-center">
+    <h3 class="text-teal-500 text-center">We want to serve you as we partner to change the&nbsp;world.</h3>
+    <p class="text-center">If you have any questions about how you can get involved, please don’t hesitate to reach out to&nbsp;us.</p>
+    <p class="mt-6">
+      <a href="/contact" class="wc-btn wc-btn-lime">Contact Us&nbsp;&nbsp;<span class="text-base sm:text-lg">&raquo;</span></a>
+    </p>
+  </div>
+</section>
+<!-- / contact us -->
+<!-- END MAIN -->

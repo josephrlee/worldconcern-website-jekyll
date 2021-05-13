@@ -1,0 +1,59 @@
+{% for asset in assets %}
+{% if asset.meta.story_title %}
+  <!-- story -->
+  <section class="w-full py-18">
+    <div class="xxl:container mx-auto px-4 sm:px-12 lg:px-4 xl:px-6 xxl:px-8">
+      <div class="aspect-h-1 aspect-w-1 md:aspect-h-7 md:aspect-w-12 lg:aspect-h-6 lg:aspect-w-12 xl:aspect-h-5 xl:aspect-w-12">
+          <img loading="lazy" src="{{ asset.url }}" alt="{{ asset.meta.name }}" class="object-cover rounded-wc {{ asset.meta.position | fallback: object-center }}" />
+      </div>
+      <div class="relative -mt-8 md:-mt-10 lg:-mt-16 sm:max-w-md md:max-w-lg lg:max-w-2xl xl:max-w-4xl mx-4 sm:mx-auto p-8 md:pt-8 lg:pt-12 bg-white rounded-wc z-20 text-center">
+        <h6 class="text-dkgray-900 uppercase text-center">Local Story</h6>
+        <h3 class="text-teal-500 text-center normal-case">{{ asset.meta.story_title }}</h3>
+      </div>
+      <div class="relative w-full sm:max-w-lg md:max-w-2xl lg:max-w-4xl xl:max-w-6xl px-4 sm:mx-auto md:pt-4 lg:pt-62 bg-white rounded-wc z-20 lg:grid lg:grid-flow-col lg:auto-cols-auto lg:space-x-12">
+        <div class="mb-2 lg:mb-0">
+          {{ asset.meta.story_column_one | markdownify }}
+        </div>
+        <div>
+          {{ asset.meta.story_column_two | markdownify }}
+        </div>
+      </div>
+      {% if asset.meta.donate_url %}
+      <div class="relative w-full sm:max-w-lg md:max-w-2xl lg:max-w-3xl px-4 sm:mx-auto pt-8 lg:pt-12">
+        <a class="wc-btn wc-btn-lime text-xl w-full" href="{{ asset.meta.donate_url }}">{{ asset.meta.donate_cta }}  <span class="text-2xl">&raquo;</span></a>
+      </div>
+      {% endif %}
+    </div>
+  </section>
+  <!-- / story -->
+  {% endif %}
+  {% endfor %}
+
+{% if meta.story_title %}
+  <!-- story -->
+  <section class="w-full py-18">
+    <div class="xxl:container mx-auto px-4 sm:px-12 lg:px-4 xl:px-6 xxl:px-8">
+      <div class="aspect-h-1 aspect-w-1 md:aspect-h-7 md:aspect-w-12 lg:aspect-h-6 lg:aspect-w-12 xl:aspect-h-5 xl:aspect-w-12">
+          <img loading="lazy" src="{{ meta.story_image }}" alt="{{ meta.name }}" class="object-cover object-center rounded-wc" />
+      </div>
+      <div class="relative -mt-8 md:-mt-10 lg:-mt-16 sm:max-w-md md:max-w-lg lg:max-w-2xl xl:max-w-4xl mx-4 sm:mx-auto p-8 md:pt-8 lg:pt-12 bg-white rounded-wc z-20 text-center">
+        <h6 class="text-dkgray-900 uppercase text-center">Local Story</h6>
+        <h3 class="text-teal-500 text-center normal-case">{{ meta.story_title }}</h3>
+      </div>
+      <div class="relative w-full sm:max-w-lg md:max-w-2xl lg:max-w-4xl xl:max-w-6xl px-4 sm:mx-auto md:pt-4 lg:pt-62 bg-white rounded-wc z-20 lg:grid lg:grid-flow-col lg:auto-cols-auto lg:space-x-12">
+        <div class="mb-2 lg:mb-0">
+          {{ meta.story_copy_column_one | markdownify }}
+        </div>
+        <div>
+          {{ meta.story_copy_column_two | markdownify }}
+        </div>
+      </div>
+      {% if meta.donate_url %}
+      <div class="relative w-full sm:max-w-lg md:max-w-2xl lg:max-w-3xl px-4 sm:mx-auto pt-8 lg:pt-12">
+        <a class="wc-btn wc-btn-lime text-xl w-full" href="{{ meta.donate_url }}">{{ meta.donate_cta }}  <span class="text-2xl">&raquo;</span></a>
+      </div>
+      {% endif %}
+    </div>
+  </section>
+  <!-- / story -->
+  {% endif %}

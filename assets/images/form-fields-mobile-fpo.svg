@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="293" height="321" viewBox="0 0 293 321">
+  <g id="form-fields-fpo" transform="translate(-14 -6043)">
+    <g id="Group_231" data-name="Group 231" transform="translate(-414 420)">
+      <g id="button_sign-up" transform="translate(428 5894)">
+        <rect id="Rectangle_1091" data-name="Rectangle 1091" width="293" height="50" rx="4" fill="#e66053"/>
+        <text id="Sign_Up_for_a_Free_Devotional" data-name="Sign Up for a Free Devotional" transform="translate(147 29)" fill="#fff" font-size="14" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-108.115" y="0">SIGN UP FOR A FREE DEVOTIONAL</tspan></text>
+      </g>
+    </g>
+    <g id="field-group_first-name" transform="translate(-154 -2194)">
+      <g id="Group_216" data-name="Group 216" transform="translate(169 8258)">
+        <g id="Rectangle_1099" data-name="Rectangle 1099" fill="#fff" stroke="#e3e0d9" stroke-width="1">
+          <rect width="290" height="50" stroke="none"/>
+          <rect x="0.5" y="0.5" width="289" height="49" fill="none"/>
+        </g>
+        <text id="Type_Here" data-name="Type Here" transform="translate(15 15)" fill="#565656" font-size="15" font-family="Whitney-Book, Whitney" opacity="0.6"><tspan x="0" y="14">Type Here</tspan></text>
+      </g>
+      <text id="First_Name" data-name="First Name" transform="translate(169 8237)" fill="#565656" font-size="15" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="0" y="12">First Name</tspan></text>
+    </g>
+    <g id="field-group_last-name" transform="translate(15 6133)">
+      <text id="Last_Name" data-name="Last Name" fill="#565656" font-size="15" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="0" y="12">Last Name</tspan></text>
+      <g id="Group_216-2" data-name="Group 216" transform="translate(0 21)">
+        <g id="Rectangle_1099-2" data-name="Rectangle 1099" fill="#fff" stroke="#e3e0d9" stroke-width="1">
+          <rect width="290" height="50" stroke="none"/>
+          <rect x="0.5" y="0.5" width="289" height="49" fill="none"/>
+        </g>
+        <text id="Type_Here-2" data-name="Type Here" transform="translate(15 15)" fill="#565656" font-size="15" font-family="Whitney-Book, Whitney" opacity="0.6"><tspan x="0" y="14">Type Here</tspan></text>
+      </g>
+    </g>
+    <g id="field-group_email-address" transform="translate(14 6223)">
+      <text id="Email_Address" data-name="Email Address" fill="#565656" font-size="15" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="0" y="12">Email Address</tspan></text>
+      <g id="Group_216-3" data-name="Group 216" transform="translate(0 21)">
+        <g id="Rectangle_1099-3" data-name="Rectangle 1099" fill="#fff" stroke="#e3e0d9" stroke-width="1">
+          <rect width="290" height="50" stroke="none"/>
+          <rect x="0.5" y="0.5" width="289" height="49" fill="none"/>
+        </g>
+        <text id="Type_Here-3" data-name="Type Here" transform="translate(15 15)" fill="#565656" font-size="15" font-family="Whitney-Book, Whitney" opacity="0.6"><tspan x="0" y="14">Type Here</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

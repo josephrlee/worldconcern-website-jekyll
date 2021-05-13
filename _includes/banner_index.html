@@ -1,0 +1,101 @@
+    <!-- banner - mobile -->
+    <section class="sm:hidden">
+      <div class="aspect-h-4 aspect-w-5">
+        <img loading="lazy" src="{{ meta.homepage_hero_mobile }}" alt="" class="object-cover" />
+      </div>
+      <div class="mt-4 p-4 relative">
+        <h3 class="text-teal-500">{{ meta.banner_title }}</h3>
+        <p>{{ meta.banner_subtitle }}</p>
+        {% if meta.multiplier %}
+          <div class="absolute block z-10 bottom-0 -mb-2 right-2 overflow-hidden">
+            <p class="table-cell w-24 h-24 text-center align-middle rounded-full uppercase bg-red-400 leading-none rotate-12 font-bold border transform border-red-500">
+              <span class="block text-xs italic text-white">{{ meta.multiplier_text}}</span>
+              <span class="block text-3xlm text-white lowercase">{{ meta.multiplier}}</span>
+            </p>
+          </div>
+        {% endif %}
+
+        <p class="mt-6">
+          <a href="{{ meta.banner_url }}&utm_medium=Website&utm_source=World+Concern&utm_term=Homepage+Banner&utm_content=Homepage+Banner" class="wc-btn wc-btn-red mb-4">{{ meta.banner_cta }}&nbsp;&nbsp;<span class="text-base">&raquo;</span></a>
+        </p>
+        {% if meta.progress_bar == true %}
+        <!-- progress bar - mobile -->
+        <div class="my-6">
+          <div class="h-4 w-full rounded-full bg-lime-800">
+            <div id="progress_bar_mobile" class="h-4 rounded-full bg-lime-500"></div>
+          </div>
+          <div class="flex justify-start mt-2">
+            <p class="mb-0 text-teal-600 font-medium"><span id="progress_amount_mobile" class="font-semibold">$0</span> raised of <span id="goal_amount_mobile">${{ meta.progress_bar_goal }}</span> goal</p>
+          </div>
+        </div> 
+        <!-- end progress bar - mobile -->
+        {% endif %}
+      </div>
+    </section>
+    <!-- / banner - mobile -->
+
+    <!-- banner -->
+    <svg class="svg w-0 h-0">
+      <clipPath id="home-banner-clip-path" clipPathUnits="objectBoundingBox"><path d="M0.45,1 C0.281,0.995,0.126,0.967,0,0.922 V0 h1 v0.922 c-0.126,0.045,-0.281,0.073,-0.45,0.078"></path></clipPath>
+    </svg>
+    <section class="hidden sm:flex items-center h-screen max-h-700 xl:max-h-750 w-full bg-cover bg-top bg-no-repeat bg-dkgray-900" style="background-image: linear-gradient({{ meta.banner_gradient }}), url({{ meta.homepage_hero_desktop }}); clip-path: url(#home-banner-clip-path)">
+      <div class="xxl:container flex lg:max-w-5xl xl:max-w-6xl sm:mx-auto px-4 sm:px-12 lg:px-4 xl:px-6 xxl:px-8 -mb-16">
+        <div class="w-1/2 lg:w-5/12 xl:w-1/3 relative">
+          <h1 class="sm:text-3xlm md:text-3xl lg:text-4xl xl:text-5xl text-white text-shadow-button sm:leading-tight">{{ meta.banner_title }}</h1>
+          <p class="lg:text-xl text-white text-shadow-button font-bold">{{ meta.banner_subtitle }}</p>
+          {% if meta.multiplier %}
+            <div class="absolute block z-10 bottom-0 -mb-4 right-0 -mr-16 transition animate-multiplier">
+              <p class="table-cell w-28 h-28 text-center align-middle rounded-full uppercase bg-red-400 leading-none rotate-12 font-bold border transform border-red-500">
+                <span class="block text-xs italic text-white">{{ meta.multiplier_text}}</span>
+                <span class="block text-4xl text-white lowercase">{{ meta.multiplier}}</span>
+              </p>
+            </div>
+          {% endif %}
+          <p class="mt-6">  
+            <a href="{{ meta.banner_url }}&utm_medium=Website&utm_source=World+Concern&utm_term=Homepage+Banner&utm_content=Homepage+Banner" class="wc-btn wc-btn-red wc-btn-dkbg w-auto xxl:w-1/2 lg:mb-0">{{ meta.banner_cta }}&nbsp;&nbsp;<span class="text-lg">&raquo;</span></a> 
+          </p>
+          {% if meta.progress_bar == true %}
+            <!-- progress bar -->
+            <!-- Campaign ID -->
+            <input type="hidden" id="campaign_id" value="{{ meta.campaign_id }}">
+            <div class="my-6">
+              <div class="h-4 w-full rounded-full bg-lime-800">
+                <div id="progress_bar_desktop" class="h-4 rounded-full bg-lime-500"></div>
+              </div>
+              <div class="flex justify-center mt-2">
+                <p class="mb-0 text-white font-medium"><span id="progress_amount_desktop" class="font-semibold">$0</span> raised of <span id="goal_amount_desktop">${{ meta.progress_bar_goal }}</span"> goal</p>
+              </div>
+            </div> 
+            <script>
+              let salesforceAPI = 'https://crista.secure.force.com/services/apexrest/campdat/';
+              let campaign_id = document.getElementById('campaign_id').value;
+              let progress_amount_desktop = document.getElementById('progress_amount_desktop');
+              let goal_amount_desktop = document.getElementById('goal_amount_desktop');
+              let progress_bar_desktop = document.getElementById('progress_bar_desktop');
+              let progress_amount_mobile = document.getElementById('progress_amount_mobile');
+              let goal_amount_mobile = document.getElementById('goal_amount_mobile');
+              let progress_bar_mobile = document.getElementById('progress_bar_mobile');
+              let currency = new Intl.NumberFormat('en-US', {
+              style: 'currency',
+              currency: 'USD',
+              }); 
+              axios.get( salesforceAPI + campaign_id , {crossdomain:true} )
+              .then(function (response) {
+                const goalPercentage = (response.data.HierarchyAmountWonOpportunities / response.data.ExpectedRevenue) * 100;
+                progress_amount_desktop.innerHTML = currency.format(response.data.HierarchyAmountWonOpportunities);
+                goal_amount_desktop.innerHTML = currency.format(response.data.ExpectedRevenue);
+                progress_bar_desktop.style.width = goalPercentage + '%';
+                progress_amount_mobile.innerHTML = currency.format(response.data.HierarchyAmountWonOpportunities);
+                goal_amount_mobile.innerHTML = currency.format(response.data.ExpectedRevenue);
+                progress_bar_mobile.style.width = goalPercentage + '%';
+              })
+              .catch(function (error) {
+              console.log(error);
+              })
+            </script>
+            <!-- / progress bar -->
+          {% endif %}
+        </div>
+      </div>
+    </section>
+    <!-- / banner -->

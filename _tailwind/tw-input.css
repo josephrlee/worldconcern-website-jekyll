@@ -1,0 +1,245 @@
+/* purgecss start ignore */
+
+@tailwind base;
+
+html {
+  scroll-behavior: smooth;
+  @media screen and (prefers-reduced-motion: reduce) {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  @apply font-body;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-headline font-bold leading-snug subpixel-antialiased text-teal-500 mb-2;
+}
+
+#wc-transform h1,
+#wc-transform h2,
+#wc-transform h3 {
+  @apply font-display text-black leading-none uppercase;
+}
+
+h1 {
+  @apply text-5xlm;
+}
+h2 {
+  @apply text-4xlm;
+}
+h3 {
+  @apply text-3xlm;
+}
+h4 {
+  @apply text-2xlm;
+}
+h5 {
+  @apply text-xlm;
+}
+h6 {
+  @apply text-lg;
+}
+
+p,
+ul,
+ol,
+dl {
+  @apply text-base leading-relaxed subpixel-antialiased text-dkgray-900 mb-2;
+}
+
+p:last-child,
+li:last-child {
+  @apply mb-0;
+}
+
+@screen sm {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply mb-3;
+  }
+  h1 {
+    @apply text-5xl;
+  }
+  h2 {
+    @apply text-4xl;
+  }
+  h3 {
+    @apply text-3xl;
+  }
+  h4 {
+    @apply text-2xl;
+  }
+  h5 {
+    @apply text-xl;
+  }
+  h6 {
+    @apply text-lg;
+  }
+  p,
+  ul,
+  ol,
+  dl {
+    @apply text-lg mb-4;
+  }
+  #wc-transform p {
+    @apply text-2xl;
+  }
+}
+
+/* --- for AlpineJS --- */
+[x-cloak] {
+  display: none;
+}
+
+/* --- sticky navbar styles --- */
+.scroll-down .sticky-nav {
+  transform: translate3d(0, -100%, 0);
+  transition: transform 0.5s;
+}
+
+.scroll-up .sticky-nav {
+  transition: transform 0.5s;
+}
+.sticky-nav p {
+  @apply mb-0;
+}
+
+@tailwind components;
+
+@layer components {
+  .wc-btn {
+    @apply inline-block w-full py-3 px-8 transition duration-300 ease-in-out rounded-wc font-headline text-sm text-white text-shadow-button font-bold text-center uppercase leading-tight;
+  }
+
+  @screen sm {
+    .wc-btn {
+      @apply py-4 w-auto text-base;
+    }
+  }
+
+  .wc-btn-lime {
+    @apply bg-lime-500 border border-lime-600;
+  }
+
+  .wc-btn-lime:hover {
+    @apply bg-lime-600;
+  }
+
+  .wc-btn-red {
+    @apply bg-red-400 border border-red-500;
+  }
+
+  .wc-btn-red:hover {
+    @apply bg-red-500 text-white;
+  }
+
+  .wc-btn-white {
+    @apply bg-white border border-dkgray-200;
+  }
+
+  .wc-btn-white:hover {
+    @apply bg-teal-100;
+  }
+
+  .wc-btn-dkbg {
+    @apply border-none;
+  }
+
+  .wc-btn-text {
+    @apply inline-block border-b-2 border-red-400 font-headline transition ease-in-out duration-300 text-sm text-red-400 font-bold uppercase;
+  }
+
+  .wc-btn-text:hover {
+    @apply border-red-500 text-red-500;
+  }
+
+  .wc-text-link {
+    @apply font-medium text-teal-500 border-b border-transparent transition-all duration-300 ease-in-out;
+  }
+
+  .wc-text-link:hover {
+    @apply text-teal-600 border-teal-600;
+  }
+
+  .wc-icon-btn {
+    @apply flex items-center gap-3 w-full p-4 transition duration-300 ease-in-out rounded-wc font-headline text-lg text-dkgray-900 text-shadow-button font-bold;
+  }
+
+  .wc-card-btn {
+    @apply inline-block w-full py-3 px-8 bg-transparent border border-white transition duration-300 ease-in-out rounded-wc font-headline text-sm text-dkgray-900 text-shadow-button font-bold text-center uppercase;
+  }
+
+  .wc-card-btn:hover {
+    @apply bg-red-400 border-red-500 text-white;
+  }
+
+  .wc-card-btn-hoverstate {
+    @apply bg-red-400 border-red-500 text-white;
+  }
+}
+
+/* purgecss end ignore */
+
+@tailwind utilities;
+
+@layer utilities {
+  .bg-overlay-black-15 {
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.15);
+  }
+  .bg-overlay-black-25 {
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.25);
+  }
+  .bg-overlay-black-50 {
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.5);
+  }
+  .bg-overlay-black-60 {
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.6);
+  }
+  .bg-overlay-black-75 {
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.75);
+  }
+  .bg-clip-text {
+    background-clip: text;
+  }
+  .drop-shadow-xs {
+    filter: drop-shadow(1px 1px 2px #00000080);
+  }
+  .backdrop-blur-2 {
+    backdrop-filter: blur(2px);
+  }
+  .backdrop-blur-4 {
+    backdrop-filter: blur(4px);
+  }
+  .backdrop-blur-6 {
+    backdrop-filter: blur(6px);
+  }
+  .backdrop-blur-8 {
+    backdrop-filter: blur(8px);
+  }
+  .backdrop-blur-10 {
+    backdrop-filter: blur(10px);
+  }
+  .text-shadow-none {
+    text-shadow: none;
+  }
+  .text-shadow-button {
+    text-shadow: 0 -0.5px rgba(0, 0, 0, 0.5);
+  }
+  .text-shadow-4-4-25 {
+    text-shadow: 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .text-shadow-8-8-25 {
+    text-shadow: 8px 8px rgba(0, 0, 0, 0.25);
+  }
+}
