@@ -1,0 +1,33 @@
+{% if site.meta.topnav_callout_banner == 'true' %}
+  {% if meta.body_class contains 'no-nav' %}
+  {% else %}
+  <div class="absolute z-10 w-full bg-red-600 bg-opacity-75 mt-16 sm:mt-24" x-data="{ isOpen: true }" x-show.transition.opacity.duration.500ms="isOpen" :aria-expanded="isOpen" x-cloak>
+    <div class="max-w-screen-xl mx-auto py-3 px-3 sm:px-6 lg:px-8">
+      <div class="pr-16 sm:text-center sm:px-16">
+        <p class="font-medium text-white">
+          <span class="timer mr-2 inline-flex space-x-2 text-center"></span>
+          <span class="md:hidden">
+            {{site.meta.topnav_callout_banner_mobile  }}
+          </span>
+          <span class="hidden md:inline">
+            {{ site.topnav_callout_banner_desktop }}
+          </span>
+          <span class="block sm:ml-2 sm:inline-block">
+            <a href="{{ site.topnav_callout_banner_url }}" title="{{ site.topnav_callout_banner_url_title }}" class="text-white font-semibold  border-whttrans-50 transition duration-300 ease-in-out border-b-2 pb-1 hover:border-white">
+              {{ site.topnav_callout_banner_cta }} <span class="text-lg">&raquo;</span>
+            </a>
+          </span>
+        </p>
+      </div>
+      <div class="absolute inset-y-0 right-0 pt-1 pr-1 flex items-start sm:pt-1 sm:pr-2 sm:items-start">
+        <button :aria-expanded="isOpen" aria-controls="nav-list" @click="isOpen = !isOpen" type="button" class="flex p-2 rounded-md sition duration-300 ease-in-out hover:bg-whttrans-30 focus:outline-none focus:bg-whttrans-30" aria-label="Dismiss">
+          <!-- Heroicon name: x -->
+          <svg class="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+{% endif %}

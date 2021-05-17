@@ -1,0 +1,69 @@
+<!-- EOY Lightbox -->
+<!--
+        Tailwind UI components require Tailwind CSS v1.8 and the @tailwindcss/ui plugin.
+        Read the documentation to get started: https://tailwindui.com/documentation
+      -->
+      <div class="fixed z-50 inset-0" 
+      x-show="lightboxOpen" 
+      x-transition:enter="transition ease-out duration-300"
+      x-transition:enter-start="opacity-0" 
+      x-transition:enter-end="opacity-100"
+      x-transition:leave="transition ease-in duration-200" 
+      x-transition:leave-start="opacity-100"
+      x-transition:leave-end="opacity-0">
+      <div class="bg-black bg-opacity-70 flex items-center justify-center min-h-screen text-center">
+    
+        <div
+          class="bg-white rounded-md text-left shadow-xl transform transition-all md:max-w-2xl lg:max-w-3xl xl:max-w-4xl" 
+          style="width: 90%;"
+          role="dialog" aria-modal="true" aria-labelledby="modal-headline" x-show="lightboxOpen"
+          x-transition:enter="transition ease-out duration-300"
+          x-transition:enter-start="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
+          x-transition:enter-end="opacity-100 translate-y-0 sm:scale-100"
+          x-transition:leave="transition ease-in duration-200"
+          x-transition:leave-start="opacity-100 translate-y-0 sm:scale-100"
+          x-transition:leave-end="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
+          @click.away=" lightboxOpen = false ">
+    
+          <div class="block absolute top-0 left-0 pt-4 pl-4 z-10">
+            <button type="button"
+              class="text-gray-400 hover:text-gray-500 focus:outline-none focus:text-gray-500 transition ease-in-out duration-150"
+              aria-label="Close" @click=" lightboxOpen = false ">
+              <!-- Heroicon name: x -->
+              <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
+          </div>
+    
+          <!-- Image -->
+          <div class="relative pb-1/2 xl:pb-3/5">
+            {% if site.meta.multiplier != "" %}
+            <div class="hidden absolute md:block z-10 top-0 -mt-8 right-0 -mr-8 transition animate-multiplier">
+              <p
+                class="table-cell w-28 h-28 text-center align-middle rounded-full uppercase bg-red-400 leading-none rotate-12 font-bold border transform border-red-500">
+                <span class="block text-xs italic text-white">{{ site.multiplier_text}}</span>
+                <span class="block text-4xl text-white lowercase">{{ site.multiplier}}</span>
+              </p>
+            </div>
+            {% endif %}
+            {% if site.meta.countdown_date != "" %}
+            <p class="flex flex-wrap absolute bg-red-100 w-full bottom-0 z-30 py-2 px-4 md:px-8 m-0 bg-opacity-90 justify-center items-center text-center text-xs sm:text-sm md:text-base">
+              <span class="timer space-x-2 flex text-white text-center"></span> 
+              <span class="text-red-700 font-bold ml-2 uppercase">{{ site.countdown_text }}</span>
+            </p>
+            {% endif %}
+            <img loading="lazy" class="absolute inset-0 object-cover object-center h-full w-full rounded-t-md"
+              src="{{ site.eoy_lightbox_image }}" alt="{{ site.eoy_lightbox_image_alt }}" />
+          </div>
+          <div class="p-4 md:p-8 relative text-center">
+            <h1 class="mb-0 text-2xl sm:text-3xl md:text-4xl lg:text-5xl">{{ site.eoy_lightbox_title }}</h1>
+            <p class="sm:text-2xl font-semibold">{{ site.eoy_lightbox_subhead }}</p>
+            <p><a href="{{ site.eoy_lightbox_link }}" title="{{ site.eoy_lightbox_alt }}"
+                class="wc-btn wc-btn-red w-full">{{ site.eoy_lightbox_cta }}&nbsp;&nbsp;<span
+                  class="text-base sm:text-lg">&raquo;</span></a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- / EOY Lightbox -->

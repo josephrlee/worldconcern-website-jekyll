@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% include head.html %}
+<body {% if slug contains "planned" %}x-data="{ openPanel: 1, showModal : false, lightboxOpen : showLightbox() }" @keydown.escape="{ showModal = false, lightboxOpen = false }"{% else %}x-data="{ modalOpen : false, lightboxOpen : showLightbox() }" @keydown.escape="{ showModal = false, lightboxOpen = false }"{% endif %} x-cloak>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MPCCNJ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <!--
+  Tailwind UI components require Tailwind CSS v1.8 and the @tailwindcss/ui plugin.
+  Read the documentation to get started: https://tailwindui.com/documentation
+  -->
+  <!-- HEADER -->
+  {% include topnav_banner.html %}
+  {% include topnav.html %}
+  <!-- / HEADER -->
+  <!-- BANNER -->
+  {% if meta.homepage_hero_mobile %}
+    {% include banner_index.html %}
+  {% elsif meta.banner_image %}
+    {% include banner.html %}
+  {% endif %}
+  <!-- END BANNER -->
+  {{ content }}
+  {% if site.meta.eoy_lightbox == true %}
+    {% include lightbox.html %}
+  {% endif %}
+  {% include footer.html %}
+</body>
+</html>

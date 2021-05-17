@@ -1,0 +1,104 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>{{ meta.head_title | fallback: site.title }} - World Concern</title>
+  <meta name="description" content="{{ meta.meta_description | fallback: site.meta.description }}">
+
+  <!-- Facebook Like Info -->
+  <meta property="fb:app_id" content="175372812529303"/>
+  <meta property="og:title" content="{{ meta.head_title | fallback: site.title }} - World Concern"/>
+  <meta property="og:image" content="https://worldconcern.org{% if meta.banner_image %}{{ meta.banner_image }}{% else %}{% for asset in assets %}{% if asset.meta.caption %}{{ asset.url }}{% endif %}{% endfor %}{% endif %}"/>
+  <meta property="og:image:alt" content="{{meta.banner_title | strip_html }}{% for asset in assets %}{% if asset.meta.caption %}{{ asset.meta.caption | strip_html }}{% endif %}{% endfor %}"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://{{ site.domain }}{{ url }}"/>
+  <meta property="og:description" content="{{ meta.meta_description | fallback: site.meta.description }}" />
+
+  <!-- Tweet Info -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@worldconcern">
+  <meta name="twitter:creator" content="@worldconcern">
+  <meta name="twitter:title" content="{{ meta.head_title | fallback: site.title }} - World Concern">
+  <meta name="twitter:description" content="{{ meta.meta_description | fallback: site.meta.description }}">
+  <meta name="twitter:image" content="https://worldconcern.org{% if meta.banner_image %}{{ meta.banner_image }}{% else %}{% for asset in assets %}{% if asset.meta.caption %}{{ asset.url }}{% endif %}{% endfor %}{% endif %}">
+
+  <link rel="icon" href="/assets/favicon.ico" />
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/apple-touch-icon-144x144.png" />
+
+  <meta name="msvalidate.01" content="999E2684CAEBD8CEF792263E27118FFC" />
+
+  <link rel="canonical" href="{{current.permalink}}" />
+  <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
+
+  <!-- Styles -->
+  <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/766996/723282/css/fonts.css" />
+  <link rel="stylesheet" href="/assets/css/tw-output.css">
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script>
+  <script src="/assets/js/tw-nav.js" defer></script>
+  {% if meta.progress_bar == true %}
+  <!-- load axios api library -->
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  {% endif %}
+  
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-3312227-1', 'auto', {'allowLinker': true});
+    ga('require', 'linker');
+    ga('linker:autoLink', ['worldconcern.org', 'give.crista.org'], false, true);
+    ga('send', 'pageview');
+  </script>
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MPCCNJ');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Global site tag (gtag.js) - AdWords: 1047281396 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1047281396"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-1047281396');
+  </script>
+
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1512521672363400');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1512521672363400&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->
+  
+  {{ header_scripts }}
+
+  {{ meta.header_scripts }}
+</head>

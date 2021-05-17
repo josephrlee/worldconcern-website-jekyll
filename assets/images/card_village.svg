@@ -1,0 +1,21 @@
+<svg id="card_village" xmlns="http://www.w3.org/2000/svg" width="265" height="435" viewBox="0 0 265 435">
+  <rect id="Rectangle_1093" data-name="Rectangle 1093" width="265" height="435" rx="4" fill="#565656"/>
+  <g id="button_cta-homepage-banner" transform="translate(21.492 373.86)">
+    <rect id="Rectangle_1091" data-name="Rectangle 1091" width="223" height="36" rx="4" transform="translate(-0.492 0.14)" fill="#e03726"/>
+    <text id="Explore_Village" data-name="Explore Village" transform="translate(111.508 22.14)" fill="#fff" font-size="12" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-49.116" y="0">EXPLORE VILLAGE</tspan></text>
+  </g>
+  <g id="vilage_name_location" data-name="vilage name/location" transform="translate(70.474 265.401)">
+    <text id="Kone_Hsar" data-name="Kone Hsar" transform="translate(61.526 21.599)" fill="#fff" font-size="28" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-62.454" y="0">Kone Hsar</tspan></text>
+    <text id="Myanmar" transform="translate(62.526 47.599)" fill="#fff" font-size="16" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-32.96" y="0">Myanmar</tspan></text>
+  </g>
+  <g id="progress_bar" data-name="progress bar" transform="translate(21.492 336.874)">
+    <g id="bar" transform="translate(0 13.995)">
+      <rect id="Rectangle_1094" data-name="Rectangle 1094" width="223" height="8" rx="4" transform="translate(-0.492 0.131)" fill="#fff"/>
+      <rect id="Rectangle_1095" data-name="Rectangle 1095" width="153" height="8" rx="4" transform="translate(-0.492 0.131)" fill="#b6c659"/>
+    </g>
+    <g id="details">
+      <text id="Sponsor_Goal" data-name="Sponsor Goal" transform="translate(-0.492 7.126)" fill="#fff" font-size="9" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="0" y="0">SPONSOR GOAL</tspan></text>
+      <text id="_350" data-name="350" transform="translate(221.508 8.126)" fill="#fff" font-size="10" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-17.34" y="0">350</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="590" height="507" viewBox="0 0 590 507">
+  <defs>
+    <filter id="Rectangle_1093" x="398" y="104" width="192" height="279" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.451"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1093-2" x="329" y="82" width="232" height="333" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1093-3" x="249" y="57" width="248" height="383" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-3"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1093-4" x="132" y="23" width="299" height="451" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1093-5" x="0" y="0" width="337" height="507" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur-5"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="cards_village" transform="translate(-1443 -2734)">
+    <g id="card_village" transform="translate(1850.357 2846.968)">
+      <g transform="matrix(1, 0, 0, 1, -407.36, -112.97)" filter="url(#Rectangle_1093)">
+        <rect id="Rectangle_1093-6" data-name="Rectangle 1093" width="174" height="261" rx="4" transform="translate(407 113)" fill="#565656"/>
+      </g>
+      <g id="button_cta-homepage-banner" transform="translate(12.995 223.916)">
+        <rect id="Rectangle_1091" data-name="Rectangle 1091" width="149" height="22" rx="4" transform="translate(-0.353 0.116)" fill="#e03726"/>
+        <text id="Explore_Village" data-name="Explore Village" transform="translate(64.647 11.116)" fill="#fff" font-size="5" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-20.465" y="0">EXPLORE VILLAGE</tspan></text>
+      </g>
+      <g id="vilage_name_location" data-name="vilage name/location" transform="translate(50.481 158.941)">
+        <text id="Kone_Hsar" data-name="Kone Hsar" transform="translate(33.161 12.092)" fill="#fff" font-size="15" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-33.458" y="0">Kone Hsar</tspan></text>
+        <text id="Myanmar" transform="translate(33.161 27.092)" fill="#fff" font-size="8" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-16.48" y="0">Myanmar</tspan></text>
+      </g>
+      <g id="progress_bar" data-name="progress bar" transform="translate(12.995 201.925)">
+        <g id="bar" transform="translate(0 8.497)">
+          <rect id="Rectangle_1094" data-name="Rectangle 1094" width="149" height="4" rx="2" transform="translate(-0.353 -0.389)" fill="#fff"/>
+          <rect id="Rectangle_1095" data-name="Rectangle 1095" width="107" height="4" rx="2" transform="translate(-0.353 -0.389)" fill="#b6c659"/>
+        </g>
+        <g id="details" transform="translate(0 0)">
+          <text id="Sponsor_Goal" data-name="Sponsor Goal" transform="translate(-0.353 4.108)" fill="#fff" font-size="5" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="0" y="0">SPONSOR GOAL</tspan></text>
+          <text id="_350" data-name="350" transform="translate(147.647 5.108)" fill="#fff" font-size="6" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-10.404" y="0">350</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="card_village-2" data-name="card_village" transform="translate(1782.383 2825.975)">
+      <g transform="matrix(1, 0, 0, 1, -339.38, -91.98)" filter="url(#Rectangle_1093-2)">
+        <rect id="Rectangle_1093-7" data-name="Rectangle 1093" width="202" height="303" rx="4" transform="translate(339 92)" fill="#565656"/>
+      </g>
+      <g id="button_cta-homepage-banner-2" data-name="button_cta-homepage-banner" transform="translate(14.994 259.903)">
+        <rect id="Rectangle_1091-2" data-name="Rectangle 1091" width="173" height="25" rx="4" transform="translate(-0.377 0.122)" fill="#e03726"/>
+        <text id="Explore_Village-2" data-name="Explore Village" transform="translate(80.623 14.122)" fill="#fff" font-size="7" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-28.651" y="0">EXPLORE VILLAGE</tspan></text>
+      </g>
+      <g id="vilage_name_location-2" data-name="vilage name/location" transform="translate(58.478 184.431)">
+        <text id="Kone_Hsar-2" data-name="Kone Hsar" transform="translate(40.139 13.594)" fill="#fff" font-size="18" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-40.149" y="0">Kone Hsar</tspan></text>
+        <text id="Myanmar-2" data-name="Myanmar" transform="translate(41.139 32.594)" fill="#fff" font-size="10" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-20.6" y="0">Myanmar</tspan></text>
+      </g>
+      <g id="progress_bar-2" data-name="progress bar" transform="translate(14.994 234.412)">
+        <g id="bar-2" data-name="bar" transform="translate(0 9.996)">
+          <rect id="Rectangle_1094-2" data-name="Rectangle 1094" width="173" height="5" rx="2.5" transform="translate(-0.377 -0.384)" fill="#fff"/>
+          <rect id="Rectangle_1095-2" data-name="Rectangle 1095" width="124" height="5" rx="2.5" transform="translate(-0.377 -0.384)" fill="#b6c659"/>
+        </g>
+        <g id="details-2" data-name="details" transform="translate(0 0)">
+          <text id="Sponsor_Goal-2" data-name="Sponsor Goal" transform="translate(-0.377 3.612)" fill="#fff" font-size="5" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="0" y="0">SPONSOR GOAL</tspan></text>
+          <text id="_350-2" data-name="350" transform="translate(171.623 5.612)" fill="#fff" font-size="7" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-12.138" y="0">350</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="card_village-3" data-name="card_village" transform="translate(1704.912 2803.984)">
+      <g transform="matrix(1, 0, 0, 1, -261.91, -69.98)" filter="url(#Rectangle_1093-3)">
+        <rect id="Rectangle_1093-8" data-name="Rectangle 1093" width="212" height="347" rx="4" transform="translate(262 70)" fill="#565656"/>
+      </g>
+      <g id="button_cta-homepage-banner-3" data-name="button_cta-homepage-banner" transform="translate(17.493 297.889)">
+        <rect id="Rectangle_1091-3" data-name="Rectangle 1091" width="178" height="29" rx="4" transform="translate(-0.405 0.128)" fill="#e03726"/>
+        <text id="Explore_Village-3" data-name="Explore Village" transform="translate(86.595 17.128)" fill="#fff" font-size="9" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-36.837" y="0">EXPLORE VILLAGE</tspan></text>
+      </g>
+      <g id="vilage_name_location-3" data-name="vilage name/location" transform="translate(56.979 211.421)">
+        <text id="Kone_Hsar-3" data-name="Kone Hsar" transform="translate(49.109 17.595)" fill="#fff" font-size="22" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-49.071" y="0">Kone Hsar</tspan></text>
+        <text id="Myanmar-3" data-name="Myanmar" transform="translate(48.109 37.595)" fill="#fff" font-size="12" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-24.72" y="0">Myanmar</tspan></text>
+      </g>
+      <g id="progress_bar-3" data-name="progress bar" transform="translate(17.493 268.9)">
+        <g id="bar-3" data-name="bar" transform="translate(0 10.996)">
+          <rect id="Rectangle_1094-3" data-name="Rectangle 1094" width="178" height="6" rx="3" transform="translate(-0.405 0.121)" fill="#fff"/>
+          <rect id="Rectangle_1095-3" data-name="Rectangle 1095" width="122" height="6" rx="3" transform="translate(-0.405 0.121)" fill="#b6c659"/>
+        </g>
+        <g id="details-3" data-name="details" transform="translate(0 0)">
+          <text id="Sponsor_Goal-3" data-name="Sponsor Goal" transform="translate(-0.405 6.117)" fill="#fff" font-size="7" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="0" y="0">SPONSOR GOAL</tspan></text>
+          <text id="_350-3" data-name="350" transform="translate(177.595 6.117)" fill="#fff" font-size="8" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-13.872" y="0">350</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="card_village-4" data-name="card_village" transform="translate(1599.951 2781.992)">
+      <g transform="matrix(1, 0, 0, 1, -156.95, -47.99)" filter="url(#Rectangle_1093-4)">
+        <rect id="Rectangle_1093-9" data-name="Rectangle 1093" width="239" height="391" rx="4" transform="translate(157 48)" fill="#565656"/>
+      </g>
+      <g id="button_cta-homepage-banner-4" data-name="button_cta-homepage-banner" transform="translate(19.493 335.874)">
+        <rect id="Rectangle_1091-4" data-name="Rectangle 1091" width="201" height="32" rx="4" transform="translate(-0.444 0.134)" fill="#e03726"/>
+        <text id="Explore_Village-4" data-name="Explore Village" transform="translate(97.556 19.134)" fill="#fff" font-size="10" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-40.93" y="0">EXPLORE VILLAGE</tspan></text>
+      </g>
+      <g id="vilage_name_location-4" data-name="vilage name/location" transform="translate(63.976 238.411)">
+        <text id="Kone_Hsar-4" data-name="Kone Hsar" transform="translate(56.073 19.597)" fill="#fff" font-size="25" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-55.763" y="0">Kone Hsar</tspan></text>
+        <text id="Myanmar-4" data-name="Myanmar" transform="translate(55.073 42.597)" fill="#fff" font-size="14" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-28.84" y="0">Myanmar</tspan></text>
+      </g>
+      <g id="progress_bar-4" data-name="progress bar" transform="translate(19.493 302.887)">
+        <g id="bar-4" data-name="bar" transform="translate(0 12.495)">
+          <rect id="Rectangle_1094-4" data-name="Rectangle 1094" width="201" height="7" rx="3.5" transform="translate(-0.444 -0.374)" fill="#fff"/>
+          <rect id="Rectangle_1095-4" data-name="Rectangle 1095" width="138" height="7" rx="3.5" transform="translate(-0.444 -0.374)" fill="#b6c659"/>
+        </g>
+        <g id="details-4" data-name="details" transform="translate(0 0)">
+          <text id="Sponsor_Goal-4" data-name="Sponsor Goal" transform="translate(-0.444 6.121)" fill="#fff" font-size="8" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="0" y="0">SPONSOR GOAL</tspan></text>
+          <text id="_350-4" data-name="350" transform="translate(198.556 6.121)" fill="#fff" font-size="8" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-13.872" y="0">350</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="card_village-5" data-name="card_village" transform="translate(1469 2760)">
+      <g transform="matrix(1, 0, 0, 1, -26, -26)" filter="url(#Rectangle_1093-5)">
+        <rect id="Rectangle_1093-10" data-name="Rectangle 1093" width="265" height="435" rx="4" transform="translate(26 26)" fill="#565656"/>
+      </g>
+      <g id="button_cta-homepage-banner-5" data-name="button_cta-homepage-banner" transform="translate(21.492 373.86)">
+        <rect id="Rectangle_1091-5" data-name="Rectangle 1091" width="223" height="36" rx="4" transform="translate(-0.492 0.14)" fill="#e03726"/>
+        <text id="Explore_Village-5" data-name="Explore Village" transform="translate(111.508 22.14)" fill="#fff" font-size="12" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-49.116" y="0">EXPLORE VILLAGE</tspan></text>
+      </g>
+      <g id="vilage_name_location-5" data-name="vilage name/location" transform="translate(70.474 265.401)">
+        <text id="Kone_Hsar-5" data-name="Kone Hsar" transform="translate(61.526 21.599)" fill="#fff" font-size="28" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-62.454" y="0">Kone Hsar</tspan></text>
+        <text id="Myanmar-5" data-name="Myanmar" transform="translate(62.526 47.599)" fill="#fff" font-size="16" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-32.96" y="0">Myanmar</tspan></text>
+      </g>
+      <g id="progress_bar-5" data-name="progress bar" transform="translate(21.492 336.874)">
+        <g id="bar-5" data-name="bar" transform="translate(0 13.995)">
+          <rect id="Rectangle_1094-5" data-name="Rectangle 1094" width="223" height="8" rx="4" transform="translate(-0.492 0.131)" fill="#fff"/>
+          <rect id="Rectangle_1095-5" data-name="Rectangle 1095" width="153" height="8" rx="4" transform="translate(-0.492 0.131)" fill="#b6c659"/>
+        </g>
+        <g id="details-5" data-name="details">
+          <text id="Sponsor_Goal-5" data-name="Sponsor Goal" transform="translate(-0.492 7.126)" fill="#fff" font-size="9" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="0" y="0">SPONSOR GOAL</tspan></text>
+          <text id="_350-5" data-name="350" transform="translate(221.508 8.126)" fill="#fff" font-size="10" font-family="Whitney-Bold, Whitney" font-weight="700"><tspan x="-17.34" y="0">350</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+{
+  "name": "World Concern Website",
+  "version": "1.0.0",
+  "description": "Sitleaf v2 site running on Jekyll.",
+  "main": "postcss.config.js",
+  "license": "ISC",
+  "devDependencies": {
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.1.1"
+  },
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.2.0",
+    "@tailwindcss/forms": "^0.2.1",
+    "@tailwindcss/typography": "^0.3.1",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailrender": "postcss _tailwind/tw-input.css -o assets/css/tw-output.css",
+    "tailwatch": "postcss _tailwind/tw-input.css -o assets/css/tw-output.css --watch",
+    "tailpurge": "NODE_ENV=production npm run tailrender"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephrlee/worldconcern-website-jekyll.git"
+  },
+  "keywords": [
+    "Jekyll",
+    "Siteleaf",
+    "Non",
+    "Profit"
+  ],
+  "author": "World Concern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephrlee/wworldconcern-website-jekyll/issues"
+  },
+  "homepage": "https://github.com/josephrlee/worldconcern-website-jekyll#readme"
+}
