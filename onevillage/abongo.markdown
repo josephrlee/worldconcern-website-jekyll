@@ -7,17 +7,17 @@ banner_image: "/uploads/onevillage-abongo-banner@2x.jpg"
 head_title: Abongo, South Sudan — One Village Transformed | World Concern
 hide_in_nav: 
 donate_link: "/donate/onevillage/abongo"
-map: 'true'
+map: true
 map_source: https://www.google.com/maps/d/u/1/embed?mid=1CvvVVV4UaCldF7-2U9vpXe6-cY8"
   width="640" height="480
 campaign_id: 70136000000tCouAAE
 village_name: Abongo
 banner_country_name: South Sudan
-progress_bar: 'true'
+progress_bar: true
 cta_copy: "[Your monthly gift of $39](/donate/onevillage/abongo) will meet physical
   and spiritual needs and bring lasting change to the families in this village. Join
   the transformation in Abongo today!"
-partners_needed: '300'
+partners_needed: 300
 assets:
 - path: "/uploads/onevillage-abongo-banner@2x.jpg"
   name: onevillage-abongo-banner@2x
